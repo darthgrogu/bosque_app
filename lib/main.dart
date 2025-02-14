@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/flutter_map.dart';
-import 'package:latlong2/latlong.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -12,80 +10,56 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bosque Da Ciência APP',
+      title: 'Jardim Botânico',
       theme: ThemeData(
-        useMaterial3: true,
+        primarySwatch: Colors.green,
+        visualDensity: VisualDensity.adaptivePlatformDensity, // Adicionado
+        useMaterial3: true, // Opcional
       ),
-      home: const MyHomePage(title: 'Bosque da Ciência'),
+      home: MyHomePage(),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
+  const MyHomePage({super.key});
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int currentPageIndex = 0;
+  int _currentIndex = 0;
+  final PageController _pageController =
+      PageController(); // Adiciona o PageController
 
-  void _searchPlant() {
-    setState(() {});
-  }
+  final List<Widget> _pages = [
+    Container(color: Colors.red),
+    Container(color: Colors.green),
+    Container(color: Colors.blue),
+  ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      bottomNavigationBar: NavigationBar(
-        onDestinationSelected: (int index) {
+      body: IndexedStack(
+        index: _currentIndex,
+        children: _pages,
+      ),
+      bottomNavigationBar: BottomNavigationBar(
+        backgroundColor: Colors.yellow,
+        currentIndex: _currentIndex,
+        onTap: (index) {
           setState(() {
-            currentPageIndex = index;
+            _currentIndex = index;
           });
         },
-        indicatorColor: Colors.green,
-        selectedIndex: currentPageIndex,
-        destinations: const <Widget>[
-          NavigationDestination(
-            selectedIcon: Icon(Icons.public),
-            icon: Icon(Icons.public),
-            label: 'Mapa',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.list_alt_rounded),
-            label: 'Espécies',
-          ),
-          NavigationDestination(
-            icon: Badge(
-              label: Text('2'),
-              child: Icon(Icons.newspaper),
-            ),
-            label: 'News',
-          ),
+        items: const [
+          BottomNavigationBarItem(icon: Icon(Icons.public), label: 'Map'),
+          BottomNavigationBarItem(icon: Icon(Icons.list), label: 'List'),
+          BottomNavigationBarItem(icon: Icon(Icons.newspaper), label: 'News'),
         ],
       ),
-      body: Center(
-        child: FlutterMap(
-          options: MapOptions(
-            initialCenter: LatLng(-3.0976310, -59.98608),
-            initialZoom: 19,
-          ),
-          children: [
-            TileLayer(
-              urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-              userAgentPackageName: 'com.example.app',
-            ),
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-          onPressed: _searchPlant,
-          tooltip: 'Increment',
-          child: const Icon(Icons.search),
-          shape),
     );
   }
 }
