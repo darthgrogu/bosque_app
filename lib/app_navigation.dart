@@ -40,8 +40,8 @@ class _AppNavigationState extends State<AppNavigation> {
           _pageController.jumpToPage(index);
         },
         items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.map), label: 'MAP'),
-          BottomNavigationBarItem(icon: Icon(Icons.list), label: 'LIST'),
+          BottomNavigationBarItem(icon: Icon(Icons.map), label: 'Map'),
+          BottomNavigationBarItem(icon: Icon(Icons.list), label: 'List'),
           BottomNavigationBarItem(icon: Icon(Icons.newspaper), label: 'News'),
         ],
       ),

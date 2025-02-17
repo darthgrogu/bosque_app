@@ -1,0 +1,6077 @@
+[
+  {
+    "id": "0049fad6-3ca4-4fdb-9c8e-2f05570f233b",
+    "accession": "CD166",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.096192,
+    "longitude": -59.986625
+  },
+  {
+    "id": "00da0845-23c0-4a87-86a4-8d04bb3b6a00",
+    "accession": "GR170",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.09680167,
+    "longitude": -59.986535
+  },
+  {
+    "id": "00f16c33-c9f7-4eb2-990e-abdd05bc756b",
+    "accession": "GR089",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.095564,
+    "longitude": -59.986875
+  },
+  {
+    "id": "012dc017-5753-4cbe-8294-ce06fe30cf6d",
+    "accession": "GR331",
+    "familyName": "Lauraceae",
+    "calcFullName": "Persea americana Mill.",
+    "vernacularName": "acabateiro",
+    "latitude": -3.09746667,
+    "longitude": -59.98774
+  },
+  {
+    "id": "018d9faa-6d44-4f99-bc7e-ddbad42eaac4",
+    "accession": "CD043",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Dialium guianense (Aubl.) Sandwith",
+    "vernacularName": "jutaí-pororoca",
+    "latitude": -3.094381,
+    "longitude": -59.987929
+  },
+  {
+    "id": "01cca7c3-217d-4be3-adb4-6e6fc4f4c260",
+    "accession": "GR418",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09886,
+    "longitude": -59.984825
+  },
+  {
+    "id": "0200357b-ee4d-4c6e-ace5-40f025f712db",
+    "accession": "GR162",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.096461,
+    "longitude": -59.987914
+  },
+  {
+    "id": "020211c7-fcba-4887-a999-c5c07d134039",
+    "accession": "PLANT001",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09612,
+    "longitude": -59.98624333
+  },
+  {
+    "id": "022afdfa-15fa-4e20-ad56-008d5eb3cba6",
+    "accession": "GR302",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Couma utilis (Mart.) Müll.Arg.",
+    "vernacularName": "sorvinha",
+    "latitude": -3.09733333,
+    "longitude": -59.98631167
+  },
+  {
+    "id": "025d75c8-8be5-435a-ab4c-7d89224bb95f",
+    "accession": "GR303",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria caimito (Ruiz & Pav.) Radlk.",
+    "vernacularName": "abiu",
+    "latitude": -3.09695167,
+    "longitude": -59.986825
+  },
+  {
+    "id": "02a92215-97e0-4734-a9cf-5e02086a6f5b",
+    "accession": "CD106",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Couroupita guianensis Aubl.",
+    "vernacularName": "",
+    "latitude": -3.093775,
+    "longitude": -59.988983
+  },
+  {
+    "id": "02e190b9-8ce3-46d8-bb61-dc2c7285b022",
+    "accession": "GR207",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera coriacea (DC.) S.A.Mori",
+    "vernacularName": "matá-matá",
+    "latitude": -3.09671167,
+    "longitude": -59.98643833
+  },
+  {
+    "id": "03a3aa95-94ad-46e4-affd-aa14ca7b9309",
+    "accession": "GR212",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.096645,
+    "longitude": -59.986515
+  },
+  {
+    "id": "03af9c41-a5cf-4023-bdbf-a3db1cfbea3e",
+    "accession": "GR229",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.0970079,
+    "longitude": -59.986212
+  },
+  {
+    "id": "042c41c0-a80e-4446-a2de-89ade5b20172",
+    "accession": "GR146",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.095579,
+    "longitude": -59.986994
+  },
+  {
+    "id": "04549ce7-5878-460f-8109-7e8c040db37d",
+    "accession": "GR168",
+    "familyName": "Combretaceae",
+    "calcFullName": "Terminalia grandis (Ducke) Gere & Boatwr.",
+    "vernacularName": "tanimbuca",
+    "latitude": -3.09673833,
+    "longitude": -59.98649
+  },
+  {
+    "id": "04ae5d1c-85bb-48f4-98dc-63ef887e321a",
+    "accession": "GR199",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria macrophylla (Lam.) Eyma",
+    "vernacularName": "abiurana",
+    "latitude": -3.09673833,
+    "longitude": -59.98658833
+  },
+  {
+    "id": "04c0594d-ad24-4075-ad30-c4fc3855d943",
+    "accession": "GR313",
+    "familyName": "Elaeocarpaceae",
+    "calcFullName": "Sloanea floribunda Spruce ex Benth.",
+    "vernacularName": "urucurana",
+    "latitude": -3.09702333,
+    "longitude": -59.98689167
+  },
+  {
+    "id": "04da1f09-2438-49bc-8f38-36a732b3bd0a",
+    "accession": "GR332",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09744167,
+    "longitude": -59.98775167
+  },
+  {
+    "id": "05a00bf6-8ac2-4ed9-83c7-b2bb6ef66bf9",
+    "accession": "GR250",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.09653,
+    "longitude": -59.98661667
+  },
+  {
+    "id": "05b4939d-7144-48f3-aa3d-71c494605eac",
+    "accession": "GR186",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09687833,
+    "longitude": -59.986595
+  },
+  {
+    "id": "07c43b75-b46d-4c65-ab15-3304fec0a13f",
+    "accession": "GR043",
+    "familyName": "Arecaceae",
+    "calcFullName": "Mauritia flexuosa L.f.",
+    "vernacularName": "",
+    "latitude": -3.098271,
+    "longitude": -59.984631
+  },
+  {
+    "id": "082fc64e-f618-418b-8c8f-a1a5eca4ed93",
+    "accession": "GR026",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga laurina (Sw.) Willd.",
+    "vernacularName": "ingá",
+    "latitude": -3.094636,
+    "longitude": -59.986799
+  },
+  {
+    "id": "087e3cd1-1e27-47d6-b6d3-022088dab235",
+    "accession": "GR454",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.09804333,
+    "longitude": -59.98584333
+  },
+  {
+    "id": "088b3f3f-b38e-4996-8ece-9c69be369557",
+    "accession": "CD152",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.096925,
+    "longitude": -59.987698
+  },
+  {
+    "id": "089e3a2c-58da-478d-8ef5-92f99622f1a1",
+    "accession": "GR476",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania sandwithii Prance",
+    "vernacularName": "",
+    "latitude": -3.09668167,
+    "longitude": -59.986195
+  },
+  {
+    "id": "08b5d660-cc45-4531-bc9c-76dd10d05693",
+    "accession": "GR063",
+    "familyName": "Combretaceae",
+    "calcFullName": "Terminalia catappa L.",
+    "vernacularName": "",
+    "latitude": -3.09926,
+    "longitude": -59.984151
+  },
+  {
+    "id": "094e2d29-77e1-458d-86f9-94f0e2cdeb4e",
+    "accession": "GR033A",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia patrisii Vahl",
+    "vernacularName": "",
+    "latitude": -3.095123,
+    "longitude": -59.987905
+  },
+  {
+    "id": "09c83c26-4c6e-4fea-8846-3ac90bb5965e",
+    "accession": "GR419",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga alba (Sw.) Willd.",
+    "vernacularName": "ingá-branca",
+    "latitude": -3.09869167,
+    "longitude": -59.98488667
+  },
+  {
+    "id": "09e7b865-2f70-4d59-bd5e-e9c1674c1a68",
+    "accession": "GR138",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus altilis (Parkinson) F.R.Fosbert",
+    "vernacularName": "",
+    "latitude": -3.096435,
+    "longitude": -59.988
+  },
+  {
+    "id": "09ed5992-bb11-47ee-a5aa-0e75441263db",
+    "accession": "GR280",
+    "familyName": "Malvaceae",
+    "calcFullName": "Matisia cordata Bonpl.",
+    "vernacularName": "sapota-do-Solimões",
+    "latitude": -3.09719333,
+    "longitude": -59.98654167
+  },
+  {
+    "id": "0a2be6b0-2191-4576-86df-e5769c5fa333",
+    "accession": "ND341",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.097226,
+    "longitude": -59.986555
+  },
+  {
+    "id": "0a7ee3b9-d4fa-40ce-a535-d894756911b0",
+    "accession": "GR165",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Parkia pendula (Willd.) Benth. ex Walp.",
+    "vernacularName": "",
+    "latitude": -3.095784,
+    "longitude": -59.987566
+  },
+  {
+    "id": "0aa1f2bf-1886-4d9d-9291-8e0936c05037",
+    "accession": "GR020",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.095534,
+    "longitude": -59.986276
+  },
+  {
+    "id": "0ae39d95-3156-4775-a884-e8ef8685c2d0",
+    "accession": "GR034",
+    "familyName": "Araceae",
+    "calcFullName": "Heteropsis",
+    "vernacularName": "",
+    "latitude": -3.095364,
+    "longitude": -59.987284
+  },
+  {
+    "id": "0b410971-b172-43f6-9011-45a3d5590691",
+    "accession": "CD222",
+    "familyName": "Poaceae",
+    "calcFullName": "Bambusa",
+    "vernacularName": "",
+    "latitude": -3.095658,
+    "longitude": -59.988269
+  },
+  {
+    "id": "0b9a6f89-2a29-4659-bd33-ca649d558dd6",
+    "accession": "ND263",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera odora (Poepp. ex van den Berg) Miers",
+    "vernacularName": "",
+    "latitude": -3.096836,
+    "longitude": -59.986771
+  },
+  {
+    "id": "0bfa745d-4753-4e7f-9c20-d58d9752a4b2",
+    "accession": "PLANT029",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09452833,
+    "longitude": -59.98898
+  },
+  {
+    "id": "0c92b613-390a-4303-832c-cb392298e89c",
+    "accession": "CD043",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Dialium guianense (Aubl.) Sandwith",
+    "vernacularName": "jutaí-pororoca",
+    "latitude": -3.096553,
+    "longitude": -59.987732
+  },
+  {
+    "id": "0cfaf1de-dc31-4e72-abac-5bffa2257081",
+    "accession": "GR460",
+    "familyName": "Arecaceae",
+    "calcFullName": "Astrocaryum aculeatum G.Mey.",
+    "vernacularName": "tucumä",
+    "latitude": -3.0974,
+    "longitude": -59.98543167
+  },
+  {
+    "id": "0d6e8856-f814-4b74-8c4d-1414073c286e",
+    "accession": "GR112",
+    "familyName": "Araceae",
+    "calcFullName": "Anthurium",
+    "vernacularName": "",
+    "latitude": -3.097087,
+    "longitude": -59.986646
+  },
+  {
+    "id": "0da4cb7e-6ed5-439f-aaef-85690c07b07f",
+    "accession": "CD336",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea attaleoides (Barb.Rodr.) Wess.Boer",
+    "vernacularName": "",
+    "latitude": -3.095323,
+    "longitude": -59.987144
+  },
+  {
+    "id": "0daf002f-6614-4c46-a08a-b5256627ba49",
+    "accession": "CD218",
+    "familyName": "Goupiaceae",
+    "calcFullName": "Goupia glabra Aubl.",
+    "vernacularName": "cupiúba",
+    "latitude": -3.096998,
+    "longitude": -59.986511
+  },
+  {
+    "id": "0f58f879-91eb-4f90-956d-ca320dcb39d8",
+    "accession": "CD118",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Enterolobium schomburgkii (Benth.) Benth.",
+    "vernacularName": "",
+    "latitude": -3.094464,
+    "longitude": -59.987674
+  },
+  {
+    "id": "1077e81b-75e8-4206-982a-033f9778f7ef",
+    "accession": "CD08",
+    "familyName": "Arecaceae",
+    "calcFullName": "Elaeis oleifera (Kunth) Cortés",
+    "vernacularName": "",
+    "latitude": -3.094591,
+    "longitude": -59.989566
+  },
+  {
+    "id": "10df0f1d-c058-4172-8e6a-19d88a9972e5",
+    "accession": "GR017A",
+    "familyName": "Verbenaceae",
+    "calcFullName": "Vitex triflora Vahl",
+    "vernacularName": "",
+    "latitude": -3.095669,
+    "longitude": -59.986997
+  },
+  {
+    "id": "10ecc861-6f07-423d-8b2b-bc8075f37d06",
+    "accession": "CD05",
+    "familyName": "Arecaceae",
+    "calcFullName": "Astrocaryum aculeatum G.Mey.",
+    "vernacularName": "tucumä",
+    "latitude": -3.09453,
+    "longitude": -59.989398
+  },
+  {
+    "id": "111ea268-a786-4d7c-81e3-3a5a5507a827",
+    "accession": "GR308",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Alchornea discolor Poepp.",
+    "vernacularName": "supiarana",
+    "latitude": -3.09700333,
+    "longitude": -59.98688667
+  },
+  {
+    "id": "1138da89-8421-4cd3-8737-e91b6538dcf0",
+    "accession": "GR204",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09679833,
+    "longitude": -59.98647833
+  },
+  {
+    "id": "11a2e486-7920-43e6-a346-9ecdf34333e1",
+    "accession": "GR013",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron",
+    "vernacularName": "",
+    "latitude": -3.09785,
+    "longitude": -59.985797
+  },
+  {
+    "id": "11dc4a28-1789-458f-af53-019f7c64d19b",
+    "accession": "CD304",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Hymenolobium",
+    "vernacularName": "",
+    "latitude": -3.096299,
+    "longitude": -59.986684
+  },
+  {
+    "id": "122de8ca-fa5a-40a4-984c-f647ad2da852",
+    "accession": "GR111",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.095827,
+    "longitude": -59.986634
+  },
+  {
+    "id": "12567953-653a-4f6a-8d1a-e87f2cc3e65a",
+    "accession": "GR232",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea tomentosa Benth.",
+    "vernacularName": "oitizeiro",
+    "latitude": -3.09694333,
+    "longitude": -59.98638667
+  },
+  {
+    "id": "12bc7c54-95fb-44ed-9f11-177a99a94e50",
+    "accession": "CD278",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma sylvestre Mart.",
+    "vernacularName": "cacau-da-mata",
+    "latitude": -3.097284,
+    "longitude": -59.986542
+  },
+  {
+    "id": "137dd8d3-28bd-44f6-ab64-d4fd5cdccbda",
+    "accession": "GR052",
+    "familyName": "Annonaceae",
+    "calcFullName": "Unonopsis stipitata Diels",
+    "vernacularName": "",
+    "latitude": -3.096839,
+    "longitude": -59.986435
+  },
+  {
+    "id": "146f8b3d-0b2f-46c9-96dc-4b504dd286a8",
+    "accession": "ND315",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.097105,
+    "longitude": -59.986698
+  },
+  {
+    "id": "14c65528-6b16-4552-b357-aa50554e6b64",
+    "accession": "GR040",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.094341,
+    "longitude": -59.987843
+  },
+  {
+    "id": "153159c6-aed3-4c9b-b014-7187ceb454fd",
+    "accession": "CD275",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania",
+    "vernacularName": "",
+    "latitude": -3.097623,
+    "longitude": -59.987696
+  },
+  {
+    "id": "154a3daf-669d-43bc-9a22-c7103feebf02",
+    "accession": "CD319",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Vataireopsis speciosa Ducke",
+    "vernacularName": "",
+    "latitude": -3.09519,
+    "longitude": -59.986685
+  },
+  {
+    "id": "159c5174-3879-4bc3-8311-7250df96f667",
+    "accession": "GR089",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.094772,
+    "longitude": -59.988588
+  },
+  {
+    "id": "15fdb035-0ba2-403c-9fc6-7cf677ea9a72",
+    "accession": "ND428",
+    "familyName": "Calophyllaceae",
+    "calcFullName": "Mammea americana L.",
+    "vernacularName": "",
+    "latitude": -3.097448,
+    "longitude": -59.986271
+  },
+  {
+    "id": "165a1b14-93dd-4891-b8da-87b0e84b228d",
+    "accession": "GR154",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.097087,
+    "longitude": -59.987715
+  },
+  {
+    "id": "173b41b0-8b52-491c-8ff4-836d9dc09154",
+    "accession": "GR474",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium hebetatum Daly",
+    "vernacularName": "breu-vermelho",
+    "latitude": -3.09677833,
+    "longitude": -59.98597333
+  },
+  {
+    "id": "175b89d7-5dc4-4de6-812f-8fb576e9ddae",
+    "accession": "CD206",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria macrophylla (Lam.) Eyma",
+    "vernacularName": "abiurana",
+    "latitude": -3.097676,
+    "longitude": -59.987738
+  },
+  {
+    "id": "179c045d-f384-4c76-af2d-c6342943a83f",
+    "accession": "GR038",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa bilimbi L.",
+    "vernacularName": "",
+    "latitude": -3.097079,
+    "longitude": -59.987969
+  },
+  {
+    "id": "17d3850d-5cee-4e3f-a76c-aa409b01038d",
+    "accession": "GR227",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium malaccense (L.) Merr. & L.M.Perry",
+    "vernacularName": "jamboeiro",
+    "latitude": -3.09682167,
+    "longitude": -59.98639167
+  },
+  {
+    "id": "17e63bee-e1b9-4c6f-80ba-4c5c61b3c0a0",
+    "accession": "CD325",
+    "familyName": "Malpighiaceae",
+    "calcFullName": "Banisteriopsis caapi (Spruce ex Griseb.) Morton",
+    "vernacularName": "",
+    "latitude": -3.095456,
+    "longitude": -59.986965
+  },
+  {
+    "id": "17e69fec-8254-4081-9818-07fc56f55522",
+    "accession": "GR210",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09660667,
+    "longitude": -59.98648833
+  },
+  {
+    "id": "18562424-e287-4d0b-ab35-b5e96f04c7a0",
+    "accession": "CD178",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.094806,
+    "longitude": -59.987435
+  },
+  {
+    "id": "18c501f9-a337-463d-8e5d-f3f18d668580",
+    "accession": "GR254",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola pavonis (A.DC.) A.C.Sm.",
+    "vernacularName": "ucuúba-branca-do-baxio",
+    "latitude": -3.09663167,
+    "longitude": -59.98669333
+  },
+  {
+    "id": "18cfb7d1-b901-45dc-b519-98bd74ba0ef4",
+    "accession": "GR405",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.09960333,
+    "longitude": -59.98454167
+  },
+  {
+    "id": "19a42ca3-381f-4392-9622-eb0f78403325",
+    "accession": "CD167",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.095588,
+    "longitude": -59.986354
+  },
+  {
+    "id": "19cb1009-2f2d-4f56-99e0-4f7c88c7e5aa",
+    "accession": "ND342",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.097228,
+    "longitude": -59.986538
+  },
+  {
+    "id": "1a3055cf-dcfd-4932-a1d3-2a6ba2424095",
+    "accession": "GR220",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.0967363,
+    "longitude": -59.9863779
+  },
+  {
+    "id": "1aaaf603-10e5-423e-93da-d7e24b3007c2",
+    "accession": "GR059",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga laurina (Sw.) Willd.",
+    "vernacularName": "ingá",
+    "latitude": -3.097465,
+    "longitude": -59.986199
+  },
+  {
+    "id": "1ad22d87-0ce7-4be4-a102-a48350b40d92",
+    "accession": "ND144",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Alibertia",
+    "vernacularName": "",
+    "latitude": -3.096588,
+    "longitude": -59.987018
+  },
+  {
+    "id": "1ae9f00c-b955-4590-8703-a840a10bf826",
+    "accession": "GR019",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus bacaba Mart.",
+    "vernacularName": "bacaba",
+    "latitude": -3.096774,
+    "longitude": -59.985859
+  },
+  {
+    "id": "1b20fcf3-90b6-47f7-8fc3-e47bc0af7507",
+    "accession": "GR036",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.095454,
+    "longitude": -59.987005
+  },
+  {
+    "id": "1b58fb25-4663-47d5-a007-04c615d91b5e",
+    "accession": "GR121",
+    "familyName": "Caryocaraceae",
+    "calcFullName": "Caryocar",
+    "vernacularName": "",
+    "latitude": -3.095439,
+    "longitude": -59.986822
+  },
+  {
+    "id": "1c0c5e9c-7701-4e88-951a-81c84b8cc0d4",
+    "accession": "GR316",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia corrugata Benth.",
+    "vernacularName": "muirajiboia",
+    "latitude": -3.09701667,
+    "longitude": -59.98697833
+  },
+  {
+    "id": "1dca55d0-bb9d-47f3-a2f5-cc89002139fb",
+    "accession": "GR122",
+    "familyName": "Urticaceae",
+    "calcFullName": "Pourouma cecropiifolia Mart.",
+    "vernacularName": "mapati",
+    "latitude": -3.097042,
+    "longitude": -59.986712
+  },
+  {
+    "id": "1e1c0134-e670-42b8-936c-613e387e44a5",
+    "accession": "GR01",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Parkia multijuga Benth.",
+    "vernacularName": "",
+    "latitude": -3.094513,
+    "longitude": -59.987568
+  },
+  {
+    "id": "1e69d586-7a19-429c-8ae7-36c0752b8da3",
+    "accession": "CD014",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.",
+    "vernacularName": "",
+    "latitude": -3.093702,
+    "longitude": -59.988256
+  },
+  {
+    "id": "1f0a5561-08f4-4281-9c40-69f99c5bc501",
+    "accession": "CD321",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Himatanthus sucuuba (Spruce ex Müll.Arg.) Woodson",
+    "vernacularName": "",
+    "latitude": -3.095403,
+    "longitude": -59.987147
+  },
+  {
+    "id": "1f4ec42b-cfea-44c5-9481-9b2bfb8a0aee",
+    "accession": "GR256",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis scabra (J.F.Macbr.) C.C.Berg",
+    "vernacularName": "inharé",
+    "latitude": -3.0967971,
+    "longitude": -59.9867054
+  },
+  {
+    "id": "1fcf8867-f434-421a-a4ee-452fac75d2ab",
+    "accession": "GR166",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.094668,
+    "longitude": -59.989584
+  },
+  {
+    "id": "1fddbb30-88fa-4ed6-bf7f-8d0f28be65dd",
+    "accession": "GR333",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Matayba",
+    "vernacularName": "",
+    "latitude": -3.097405,
+    "longitude": -59.987652
+  },
+  {
+    "id": "1fde5d62-fed1-42d9-b144-94871177dca1",
+    "accession": "CD330",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Aspidosperma carapanauba Pichon",
+    "vernacularName": "",
+    "latitude": -3.094646,
+    "longitude": -59.988809
+  },
+  {
+    "id": "203d475f-8b9e-4abb-b686-7f3859c46a41",
+    "accession": "GR257",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09677667,
+    "longitude": -59.98674667
+  },
+  {
+    "id": "20c8606a-06bf-4ee1-bf99-cfdd14f0cb7e",
+    "accession": "GR013",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron",
+    "vernacularName": "",
+    "latitude": -3.095345,
+    "longitude": -59.987083
+  },
+  {
+    "id": "20e2b196-a552-4826-b57d-353acbd5dcd5",
+    "accession": "CD218",
+    "familyName": "Goupiaceae",
+    "calcFullName": "Goupia glabra Aubl.",
+    "vernacularName": "cupiúba",
+    "latitude": -3.096639,
+    "longitude": -59.987732
+  },
+  {
+    "id": "21771de1-a261-43f5-a9a7-e2905324694a",
+    "accession": "GR300",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.09731833,
+    "longitude": -59.98636833
+  },
+  {
+    "id": "2254c63f-13aa-49ad-ab0d-dae1efdf9189",
+    "accession": "GR317",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.097095,
+    "longitude": -59.98711
+  },
+  {
+    "id": "22d2f49c-0a16-41ec-b87a-30b2f78b36a6",
+    "accession": "GR286",
+    "familyName": "Malvaceae",
+    "calcFullName": "Matisia cordata Bonpl.",
+    "vernacularName": "sapota-do-Solimões",
+    "latitude": -3.097165,
+    "longitude": -59.98671333
+  },
+  {
+    "id": "2314ab65-96dc-47ae-90a5-c88c5d4c47cf",
+    "accession": "GR036",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.095737,
+    "longitude": -59.986623
+  },
+  {
+    "id": "23853542-e4ef-4f00-8b99-3c817a723d95",
+    "accession": "CD090",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.09449,
+    "longitude": -59.989472
+  },
+  {
+    "id": "23dc9a74-b94a-4708-b9d5-85cfe8d34012",
+    "accession": "GR348",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.096946,
+    "longitude": -59.9877
+  },
+  {
+    "id": "242e0f98-3983-479c-9496-93ea4874c73f",
+    "accession": "GR301",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.09736,
+    "longitude": -59.98640833
+  },
+  {
+    "id": "24568886-25db-4172-ad24-99c38f3e2d94",
+    "accession": "GR343",
+    "familyName": "Ebenaceae",
+    "calcFullName": "Diospyros",
+    "vernacularName": "caqui",
+    "latitude": -3.097015,
+    "longitude": -59.987728
+  },
+  {
+    "id": "24966a72-4572-4a53-bd2f-9f3ab797298a",
+    "accession": "GR030",
+    "familyName": "Urticaceae",
+    "calcFullName": "Cecropia leucocoma Miq.",
+    "vernacularName": "",
+    "latitude": -3.099548,
+    "longitude": -59.984886
+  },
+  {
+    "id": "24a5752b-1dac-4721-be13-bc8a863fef02",
+    "accession": "GR073",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.09761,
+    "longitude": -59.986471
+  },
+  {
+    "id": "24d20daa-f720-4f42-a8b1-99badfb8070e",
+    "accession": "GR445",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga laurina (Sw.) Willd.",
+    "vernacularName": "ingá",
+    "latitude": -3.09751167,
+    "longitude": -59.98551167
+  },
+  {
+    "id": "25019b27-de4e-4f74-8b5d-7a8687886e28",
+    "accession": "GR339",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.097081,
+    "longitude": -59.987709
+  },
+  {
+    "id": "25869880-eb54-4418-962e-e27212791adb",
+    "accession": "GR071",
+    "familyName": "Lauraceae",
+    "calcFullName": "Persea",
+    "vernacularName": "",
+    "latitude": -3.095281,
+    "longitude": -59.989199
+  },
+  {
+    "id": "26778ba2-6faf-4c3f-b981-12b9de1636ec",
+    "accession": "GR417",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Dipteryx odorata (Aubl.) Forsyth f.",
+    "vernacularName": "cumaru-verdadeiro",
+    "latitude": -3.098935,
+    "longitude": -59.98492167
+  },
+  {
+    "id": "26b8f7ae-7be7-407a-9341-05919dd06fb3",
+    "accession": "CD155",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Stryphnodendron pulcherrimum (Willd.) Hochr.",
+    "vernacularName": "",
+    "latitude": -3.094736,
+    "longitude": -59.987741
+  },
+  {
+    "id": "27392ed3-2c94-4217-990c-6f84ba09e807",
+    "accession": "GR077",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.094289,
+    "longitude": -59.988171
+  },
+  {
+    "id": "276d0364-3b69-42cf-8e93-753eb1de6311",
+    "accession": "GR349",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.096881,
+    "longitude": -59.987696
+  },
+  {
+    "id": "280a27f8-87b6-4e1b-9259-13d2b9609a1d",
+    "accession": "INPA3",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.099231,
+    "longitude": -59.984755
+  },
+  {
+    "id": "282277f8-509e-49cd-84c1-9016ec84cfa5",
+    "accession": "GR278",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09716833,
+    "longitude": -59.98661667
+  },
+  {
+    "id": "289ba488-76e5-4988-a468-79fe00491c39",
+    "accession": "CD085",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.094404,
+    "longitude": -59.989518
+  },
+  {
+    "id": "292c6b9b-4eb4-4eb4-a4a7-96d9acb122a1",
+    "accession": "GR060",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Garcinia",
+    "vernacularName": "",
+    "latitude": -3.097383,
+    "longitude": -59.986509
+  },
+  {
+    "id": "2958aea1-e282-48ea-8fa8-63b3da287db4",
+    "accession": "GR36A",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Couepia",
+    "vernacularName": "Pajurá",
+    "latitude": -3.09749,
+    "longitude": -59.985388
+  },
+  {
+    "id": "2b2451f0-1ded-4f60-ba6a-29c2778d1941",
+    "accession": "GR424",
+    "familyName": "Bixaceae",
+    "calcFullName": "Bixa orellana L.",
+    "vernacularName": "urucum",
+    "latitude": -3.09824667,
+    "longitude": -59.98479333
+  },
+  {
+    "id": "2b4da9f4-58fd-475c-af94-bedc66eea2d0",
+    "accession": "CD246",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Matayba",
+    "vernacularName": "",
+    "latitude": -3.096251,
+    "longitude": -59.988302
+  },
+  {
+    "id": "2be29cfe-2a06-4b78-8407-ee2b34aed65a",
+    "accession": "GR111",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.095794,
+    "longitude": -59.986733
+  },
+  {
+    "id": "2cba110c-181b-4b1d-959b-076af2062729",
+    "accession": "GR294",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.09725167,
+    "longitude": -59.98637833
+  },
+  {
+    "id": "2da732c7-383b-4eb4-8303-f5eba2a0fe19",
+    "accession": "CD041",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia esculenta (Cambess.) Radlk.",
+    "vernacularName": "pitombeira",
+    "latitude": -3.095228,
+    "longitude": -59.987543
+  },
+  {
+    "id": "2e83bdf6-916d-42ca-bc8a-ac50fd5e2c3c",
+    "accession": "GR121",
+    "familyName": "Caryocaraceae",
+    "calcFullName": "Caryocar",
+    "vernacularName": "",
+    "latitude": -3.098169,
+    "longitude": -59.984689
+  },
+  {
+    "id": "2f162ba4-d4f9-494b-ace9-ff2b203535bc",
+    "accession": "GR344",
+    "familyName": "Burseraceae",
+    "calcFullName": "Trattinnickia",
+    "vernacularName": "",
+    "latitude": -3.096952,
+    "longitude": -59.987796
+  },
+  {
+    "id": "2f6a39e4-aa89-467e-a6b3-2c292c71a690",
+    "accession": "ND207",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.096602,
+    "longitude": -59.986484
+  },
+  {
+    "id": "30459026-838e-4678-90c1-e2804cec7ea0",
+    "accession": "GR252",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera coriacea (DC.) S.A.Mori",
+    "vernacularName": "matá-matá",
+    "latitude": -3.09664,
+    "longitude": -59.98672
+  },
+  {
+    "id": "305a0ec6-d515-4d59-acd1-fe6dbd255084",
+    "accession": "PLANT018",
+    "familyName": "Annonaceae",
+    "calcFullName": "Guatteria punctata (Aubl.) R.A.Howard",
+    "vernacularName": "envira-preta",
+    "latitude": -3.09632667,
+    "longitude": -59.98814667
+  },
+  {
+    "id": "306afa92-72a0-4380-ab04-4e1692abec10",
+    "accession": "GR03",
+    "familyName": "Arecaceae",
+    "calcFullName": "Socratea exorrhiza (Mart.) H.Wendl.",
+    "vernacularName": "",
+    "latitude": -3.096623,
+    "longitude": -59.986631
+  },
+  {
+    "id": "3080b741-9897-4fdf-a2d6-482637da7f84",
+    "accession": "PLANT003",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09576141,
+    "longitude": -59.98632152
+  },
+  {
+    "id": "3096cbb3-6daa-44f5-91ab-dbbca6d4205c",
+    "accession": "GR09",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Caesalpinia ferrea Mart.",
+    "vernacularName": "",
+    "latitude": -3.095723,
+    "longitude": -59.987063
+  },
+  {
+    "id": "30f75f86-75bb-4b12-92bd-d123641b6ff5",
+    "accession": "GR492",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Couepia longipendula Pilg.",
+    "vernacularName": "",
+    "latitude": -3.095129,
+    "longitude": -59.987219
+  },
+  {
+    "id": "31726fbf-f03f-46c1-b3b8-3560fc2ec4a6",
+    "accession": "GR196",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea brittoniana (Fritsch) Sothers & Prance",
+    "vernacularName": "parinari",
+    "latitude": -3.09673333,
+    "longitude": -59.98666167
+  },
+  {
+    "id": "319baecc-7f2d-4ec9-a17f-0f9b123e59b3",
+    "accession": "ND293",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.09694,
+    "longitude": -59.986187
+  },
+  {
+    "id": "31beaf29-8dc0-4683-939f-fc248646ccc1",
+    "accession": "PLANT017",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.09620167,
+    "longitude": -59.98853333
+  },
+  {
+    "id": "32032d60-2dba-4b03-bb6d-8b1872704a0a",
+    "accession": "PLANT004",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Vatairea paraensis Ducke",
+    "vernacularName": "",
+    "latitude": -3.09575,
+    "longitude": -59.98634333
+  },
+  {
+    "id": "3218e599-3dfe-4165-ac12-8aa31d30ca91",
+    "accession": "GR290",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.09708,
+    "longitude": -59.986605
+  },
+  {
+    "id": "323017da-1be5-4138-9962-97cd704afcad",
+    "accession": "GR03",
+    "familyName": "Arecaceae",
+    "calcFullName": "Socratea exorrhiza (Mart.) H.Wendl.",
+    "vernacularName": "",
+    "latitude": -3.096591,
+    "longitude": -59.986222
+  },
+  {
+    "id": "32ce7144-48cd-4908-8843-175349ef6f7d",
+    "accession": "GR061",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Anacardium occidentale L.",
+    "vernacularName": "cajueiro",
+    "latitude": -3.09863,
+    "longitude": -59.984729
+  },
+  {
+    "id": "337bd406-b004-4e22-bc18-271ddb7d6dce",
+    "accession": "CD032",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Couma utilis (Mart.) Müll.Arg.",
+    "vernacularName": "sorvinha",
+    "latitude": -3.094276,
+    "longitude": -59.989405
+  },
+  {
+    "id": "33eabd4d-5499-4059-ba5a-199504b862d2",
+    "accession": "ND349",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Couma utilis (Mart.) Müll.Arg.",
+    "vernacularName": "sorvinha",
+    "latitude": -3.097369,
+    "longitude": -59.986477
+  },
+  {
+    "id": "34199cb1-ff5b-4d8d-9778-b35be696018d",
+    "accession": "GR335",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.097472,
+    "longitude": -59.987653
+  },
+  {
+    "id": "344c89c3-c6ee-4a64-825b-b4ac814a1634",
+    "accession": "CD200",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Ambelania acida Aubl.",
+    "vernacularName": "",
+    "latitude": -3.095065,
+    "longitude": -59.988019
+  },
+  {
+    "id": "3506bffa-f0f1-44ad-9384-cf69b8a5d231",
+    "accession": "GR022",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia esculenta (Cambess.) Radlk.",
+    "vernacularName": "pitombeira",
+    "latitude": -3.094734,
+    "longitude": -59.989274
+  },
+  {
+    "id": "351b56b7-f29e-486c-bb97-46f9c82d72cf",
+    "accession": "ND408",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria guianensis Aubl.",
+    "vernacularName": "",
+    "latitude": -3.097364,
+    "longitude": -59.9863
+  },
+  {
+    "id": "3531019e-a66f-4032-b446-7403e15bef6e",
+    "accession": "GR462",
+    "familyName": "Siparunaceae",
+    "calcFullName": "Siparuna guianensis Aubl.",
+    "vernacularName": "capitiú",
+    "latitude": -3.09743167,
+    "longitude": -59.98567
+  },
+  {
+    "id": "35eb146b-056b-4bb6-97af-f5eb67ccc0b3",
+    "accession": "GR137",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria caimito (Ruiz & Pav.) Radlk.",
+    "vernacularName": "abiu",
+    "latitude": -3.096248,
+    "longitude": -59.986362
+  },
+  {
+    "id": "367f90b7-e83c-4733-9b40-2ab06305fea0",
+    "accession": "GR019",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus bacaba Mart.",
+    "vernacularName": "bacaba",
+    "latitude": -3.094592,
+    "longitude": -59.987125
+  },
+  {
+    "id": "368d3511-687b-4d1e-acc2-446d40dd804a",
+    "accession": "GR093",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.096515,
+    "longitude": -59.98613
+  },
+  {
+    "id": "36af8f8b-76a2-4e46-acee-42341798d4c8",
+    "accession": "GR03",
+    "familyName": "Arecaceae",
+    "calcFullName": "Socratea exorrhiza (Mart.) H.Wendl.",
+    "vernacularName": "",
+    "latitude": -3.096806,
+    "longitude": -59.986829
+  },
+  {
+    "id": "36f56112-44d5-4e83-a071-77e54e20b491",
+    "accession": "GR050",
+    "familyName": "Humiriaceae",
+    "calcFullName": "Endopleura uchi (Huber) Cuatrec.",
+    "vernacularName": "",
+    "latitude": -3.096213,
+    "longitude": -59.98802
+  },
+  {
+    "id": "3765859a-bec2-4540-b64c-130efb694d73",
+    "accession": "CD026",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia corrugata Benth.",
+    "vernacularName": "muirajiboia",
+    "latitude": -3.095052,
+    "longitude": -59.988118
+  },
+  {
+    "id": "3781d16b-cf34-403d-ab0b-e69a13124dfe",
+    "accession": "CD178",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.09437,
+    "longitude": -59.987677
+  },
+  {
+    "id": "3799288a-5ebc-412f-bd1f-d19770fe8ab1",
+    "accession": "GR507",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Genipa americana L.",
+    "vernacularName": "",
+    "latitude": -3.09429,
+    "longitude": -59.987953
+  },
+  {
+    "id": "37ac6890-226a-4cb0-8bd2-3a736acfc5a5",
+    "accession": "ND262",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium",
+    "vernacularName": "",
+    "latitude": -3.09682,
+    "longitude": -59.986762
+  },
+  {
+    "id": "3a12826f-76b0-467e-a4ec-fd45e068e007",
+    "accession": "GR078",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.094756,
+    "longitude": -59.987921
+  },
+  {
+    "id": "3b046cde-222e-4dcd-8ece-59f3d97638f0",
+    "accession": "PLANT008",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09558333,
+    "longitude": -59.98626833
+  },
+  {
+    "id": "3b6cfebc-760a-40b1-9b48-fb14d0e60c23",
+    "accession": "GR184",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba",
+    "vernacularName": "coccoloba",
+    "latitude": -3.09692167,
+    "longitude": -59.98651333
+  },
+  {
+    "id": "3c4f43ca-79ee-4d9b-b023-76aa5771efda",
+    "accession": "GR039",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus heterophyllus Lam.",
+    "vernacularName": "",
+    "latitude": -3.09607,
+    "longitude": -59.988677
+  },
+  {
+    "id": "3cd0ef13-4b73-474e-b362-6bf1da55a972",
+    "accession": "GR221",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09677,
+    "longitude": -59.98634667
+  },
+  {
+    "id": "3d082924-18af-4de1-ba5a-c89e7090f594",
+    "accession": "CD259",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Pithecellobium racemosum (Ducke) Killip",
+    "vernacularName": "",
+    "latitude": -3.0968,
+    "longitude": -59.987765
+  },
+  {
+    "id": "3d7b5abf-8480-413e-ab2d-8f39ad676116",
+    "accession": "GR133",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.09639,
+    "longitude": -59.98636
+  },
+  {
+    "id": "3dad53d3-4360-497d-9e71-d5f7ec036f35",
+    "accession": "CD092",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria caimito (Ruiz & Pav.) Radlk.",
+    "vernacularName": "abiu",
+    "latitude": -3.09422,
+    "longitude": -59.988357
+  },
+  {
+    "id": "3e942f38-5e3b-4466-be88-e66a6c0c2804",
+    "accession": "GR247",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.09684,
+    "longitude": -59.98665
+  },
+  {
+    "id": "3f4072b4-0c34-486a-9c94-b6e4d7616655",
+    "accession": "GR461",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania",
+    "vernacularName": "",
+    "latitude": -3.09746667,
+    "longitude": -59.98550167
+  },
+  {
+    "id": "3f4ee9c2-a2a2-49a4-8c45-a98e1ece8e3e",
+    "accession": "GR473",
+    "familyName": "Dichapetalaceae",
+    "calcFullName": "Tapura guianensis Aubl.",
+    "vernacularName": "pau-de-bicho",
+    "latitude": -3.09703667,
+    "longitude": -59.985705
+  },
+  {
+    "id": "3f97908d-a391-415e-aaff-60b30ddba3bf",
+    "accession": "GR177",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.09681833,
+    "longitude": -59.98653833
+  },
+  {
+    "id": "3f9bde74-9078-4860-b5a5-bef206a6f625",
+    "accession": "GR443",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.0975915,
+    "longitude": -59.9854466
+  },
+  {
+    "id": "401737c3-f902-4492-855e-7b9940dd12da",
+    "accession": "INPA1",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Garcinia macrophylla Mart.",
+    "vernacularName": "",
+    "latitude": -3.094189,
+    "longitude": -59.989046
+  },
+  {
+    "id": "406e1c72-5ff3-4d16-9b1f-abf3a91fd979",
+    "accession": "GR466",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga heterophylla Willd.",
+    "vernacularName": "ingá-chichica",
+    "latitude": -3.09726167,
+    "longitude": -59.98556667
+  },
+  {
+    "id": "40ea363c-d3fd-42e0-85e3-1e2f87d3a20e",
+    "accession": "GR287",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.09719167,
+    "longitude": -59.98660667
+  },
+  {
+    "id": "41375856-9f1b-42fc-ab32-bb9fdf48a4db",
+    "accession": "GR318",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.09711667,
+    "longitude": -59.98717167
+  },
+  {
+    "id": "41974dd4-4e55-4f04-b2de-640efe554e9c",
+    "accession": "CD131",
+    "familyName": "Moraceae",
+    "calcFullName": "Perebea mollis (Poepp. & Endl.) Huber",
+    "vernacularName": "",
+    "latitude": -3.096289,
+    "longitude": -59.988266
+  },
+  {
+    "id": "42127e87-c51b-4e99-a401-c410008fb773",
+    "accession": "GR060",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Garcinia",
+    "vernacularName": "",
+    "latitude": -3.096379,
+    "longitude": -59.988024
+  },
+  {
+    "id": "42487fc3-7a4e-4c40-a105-858a226e4fdb",
+    "accession": "GR046",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Mansoa alliacea (Lam.) A.H.Gentry",
+    "vernacularName": "",
+    "latitude": -3.100067,
+    "longitude": -59.984843
+  },
+  {
+    "id": "4252755b-27db-4857-8a7c-c0f3d82fab34",
+    "accession": "GR409",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga alba (Sw.) Willd.",
+    "vernacularName": "ingá-branca",
+    "latitude": -3.09925,
+    "longitude": -59.98500833
+  },
+  {
+    "id": "42dc3a5c-b861-43c5-bb9f-dbc36c53e229",
+    "accession": "PLANT032",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.094735,
+    "longitude": -59.98860333
+  },
+  {
+    "id": "42eee41d-2495-456c-abf9-6a7954664a50",
+    "accession": "GR029A",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona foetida Mart.",
+    "vernacularName": "",
+    "latitude": -3.097389,
+    "longitude": -59.987345
+  },
+  {
+    "id": "4370a33e-cb30-4d80-a4e4-16c4d1f3cbe9",
+    "accession": "GR024",
+    "familyName": "Siparunaceae",
+    "calcFullName": "Siparuna guianensis Aubl.",
+    "vernacularName": "capitiú",
+    "latitude": -3.094693,
+    "longitude": -59.987424
+  },
+  {
+    "id": "43a7b82f-4e81-4cb5-814c-078d61310a6a",
+    "accession": "GR451",
+    "familyName": "Annonaceae",
+    "calcFullName": "Bocageopsis multiflora (Mart.) R.E.Fr.",
+    "vernacularName": "envira-preta",
+    "latitude": -3.09786833,
+    "longitude": -59.98561667
+  },
+  {
+    "id": "43ed8bda-05f3-4236-ba81-772ccc2796c4",
+    "accession": "GR126",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Genipa americana L.",
+    "vernacularName": "",
+    "latitude": -3.095773,
+    "longitude": -59.988905
+  },
+  {
+    "id": "44026ed0-7cd7-4278-ba31-6f90ca3fc7f2",
+    "accession": "GR04",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Acioa longipendula (Pilg.) Sothers & Prance",
+    "vernacularName": "castanha-de-galinha",
+    "latitude": -3.094585,
+    "longitude": -59.988052
+  },
+  {
+    "id": "449f1bdb-99ff-4568-9f74-0cb2e9597b85",
+    "accession": "GR282",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.097275,
+    "longitude": -59.986555
+  },
+  {
+    "id": "44c41f5b-2c80-48fa-8078-fa7b40f855da",
+    "accession": "CD127",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.09483,
+    "longitude": -59.988586
+  },
+  {
+    "id": "453a1c6c-c7e2-408d-96c0-98081c3989fc",
+    "accession": "GR114",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga laurina (Sw.) Willd.",
+    "vernacularName": "ingá",
+    "latitude": -3.095434,
+    "longitude": -59.986876
+  },
+  {
+    "id": "456c0272-e82c-462d-b889-72217d9cf203",
+    "accession": "ND297",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.096962,
+    "longitude": -59.98685
+  },
+  {
+    "id": "45a93850-2c5a-41d3-942d-3055be5f051f",
+    "accession": "CD07",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.094596,
+    "longitude": -59.989636
+  },
+  {
+    "id": "45d182b0-51bb-4a33-b86c-5c5d18639241",
+    "accession": "GR027",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma sylvestre Mart.",
+    "vernacularName": "cacau-da-mata",
+    "latitude": -3.095013,
+    "longitude": -59.987478
+  },
+  {
+    "id": "45e2a7bd-550b-4d63-ac99-508bf0ee0a27",
+    "accession": "GR180",
+    "familyName": "Elaeocarpaceae",
+    "calcFullName": "Sloanea",
+    "vernacularName": "urucurana",
+    "latitude": -3.09683667,
+    "longitude": -59.986505
+  },
+  {
+    "id": "463a5a8e-0f3d-44e6-b106-c4da2fff1f3c",
+    "accession": "ND172",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Compsoneura ulei Warb.",
+    "vernacularName": "",
+    "latitude": -3.096717,
+    "longitude": -59.986659
+  },
+  {
+    "id": "465691ad-1772-4e10-a1f3-b8301f188a81",
+    "accession": "GR437",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga edulis Mart.",
+    "vernacularName": "ingá-do-metro",
+    "latitude": -3.09777333,
+    "longitude": -59.98531333
+  },
+  {
+    "id": "478a6383-3621-4b43-bbd9-ebadb65ce09b",
+    "accession": "ND339",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.097076,
+    "longitude": -59.986709
+  },
+  {
+    "id": "47aff58c-d5e4-4f4d-a3f2-f8a506355750",
+    "accession": "GR152",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.095904,
+    "longitude": -59.988728
+  },
+  {
+    "id": "483e6b6e-9ae3-4c3d-bf64-06258df09115",
+    "accession": "GR140",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus altilis (Parkinson) F.R.Fosbert",
+    "vernacularName": "",
+    "latitude": -3.097514,
+    "longitude": -59.984937
+  },
+  {
+    "id": "484262f2-654a-4b74-aa91-4e2a61294794",
+    "accession": "GR032",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.094526,
+    "longitude": -59.987021
+  },
+  {
+    "id": "4865d6b6-ec6a-4903-8ba5-ec6073ea897b",
+    "accession": "GR070",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.09601,
+    "longitude": -59.988207
+  },
+  {
+    "id": "4895b9a7-ec28-4beb-b804-ca328946b285",
+    "accession": "GR015",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron maximum K.Krause",
+    "vernacularName": "",
+    "latitude": -3.095719,
+    "longitude": -59.987241
+  },
+  {
+    "id": "48b0b5ed-1218-40ea-b7de-b6d62de40d8d",
+    "accession": "CD181",
+    "familyName": "Simaroubaceae",
+    "calcFullName": "Simarouba amara Aubl.",
+    "vernacularName": "marupá",
+    "latitude": -3.096725,
+    "longitude": -59.986756
+  },
+  {
+    "id": "48c78c43-4c76-481a-9c5c-d24d71d3d581",
+    "accession": "CD204",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia patrisii Vahl",
+    "vernacularName": "",
+    "latitude": -3.094883,
+    "longitude": -59.988021
+  },
+  {
+    "id": "48de5b42-793e-4f83-aacc-80f1b20c3e9f",
+    "accession": "INPA4",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Dipteryx odorata (Aubl.) Forsyth f.",
+    "vernacularName": "cumaru-verdadeiro",
+    "latitude": -3.099272,
+    "longitude": -59.984877
+  },
+  {
+    "id": "4a07a310-caa2-42af-ba49-06d744840405",
+    "accession": "GR025",
+    "familyName": "Cucurbitaceae",
+    "calcFullName": "Helmontia leptantha (Schltdl.) Cogn.",
+    "vernacularName": "",
+    "latitude": -3.098165,
+    "longitude": -59.984953
+  },
+  {
+    "id": "4a1bc503-f011-48ba-922f-2ef7a5cca1e5",
+    "accession": "GR435",
+    "familyName": "Araliaceae",
+    "calcFullName": "Didymopanax morototoni (Aubl.) Decne. & Planch.",
+    "vernacularName": "morototó",
+    "latitude": -3.09778,
+    "longitude": -59.98527
+  },
+  {
+    "id": "4a2147af-9ada-49b0-ad94-7581b88e8f30",
+    "accession": "GR174",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Cupania scrobiculata Rich.",
+    "vernacularName": "cupania",
+    "latitude": -3.09679667,
+    "longitude": -59.98662333
+  },
+  {
+    "id": "4a4f76b9-48bf-4c69-853c-577ac6dfb6a4",
+    "accession": "GR503",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.095247,
+    "longitude": -59.987859
+  },
+  {
+    "id": "4a8360a6-4fa3-4540-87dd-e6e76d6196f9",
+    "accession": "GR068",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Psidium",
+    "vernacularName": "",
+    "latitude": -3.097157,
+    "longitude": -59.987593
+  },
+  {
+    "id": "4ab027e9-f361-42cc-b41e-61bdf1b6c7dc",
+    "accession": "GR450",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.09786333,
+    "longitude": -59.985585
+  },
+  {
+    "id": "4b8914fd-e4c6-45f3-bd90-bc6a2714ab69",
+    "accession": "CD05",
+    "familyName": "Arecaceae",
+    "calcFullName": "Astrocaryum aculeatum G.Mey.",
+    "vernacularName": "tucumä",
+    "latitude": -3.095143,
+    "longitude": -59.98723
+  },
+  {
+    "id": "4bfbc992-577c-4125-bafc-0a0c3419c451",
+    "accession": "ND337",
+    "familyName": "Malvaceae",
+    "calcFullName": "Quararibea cordata (Bonpl.) Visher",
+    "vernacularName": "",
+    "latitude": -3.09708,
+    "longitude": -59.986603
+  },
+  {
+    "id": "4c4304a7-aa58-4752-8c6c-ce9a2776c812",
+    "accession": "GR017",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095844,
+    "longitude": -59.986688
+  },
+  {
+    "id": "4c7bb7ff-41d9-4039-a6a3-9a4159fe938a",
+    "accession": "GR081",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron josephii",
+    "vernacularName": "",
+    "latitude": -3.095319,
+    "longitude": -59.9871
+  },
+  {
+    "id": "4d0f697a-2cb8-40ab-b9f6-9a2fd12a39c0",
+    "accession": "GR431",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga heterophylla Willd.",
+    "vernacularName": "ingá-chichica",
+    "latitude": -3.09805,
+    "longitude": -59.98510333
+  },
+  {
+    "id": "4de6ce71-fcca-4839-89ac-cc2863de968a",
+    "accession": "GR192",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera coriacea (DC.) S.A.Mori",
+    "vernacularName": "matá-matá",
+    "latitude": -3.09693667,
+    "longitude": -59.986645
+  },
+  {
+    "id": "4e2dce75-ab01-4dbf-911d-761c369eeca2",
+    "accession": "GR233",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Coffea arabica Benth.",
+    "vernacularName": "cafeeiro",
+    "latitude": -3.09691333,
+    "longitude": -59.98638
+  },
+  {
+    "id": "4e415dde-c767-49e3-a7ef-5f82b27a7bd1",
+    "accession": "CD251",
+    "familyName": "Annonaceae",
+    "calcFullName": "Guatteria procera R.E.Fr.",
+    "vernacularName": "",
+    "latitude": -3.097604,
+    "longitude": -59.986696
+  },
+  {
+    "id": "4e416845-3fd8-48f2-98da-1b4c0b17c3aa",
+    "accession": "GR075",
+    "familyName": "Arecaceae",
+    "calcFullName": "Leopoldinia",
+    "vernacularName": "",
+    "latitude": -3.095288,
+    "longitude": -59.986867
+  },
+  {
+    "id": "4f1ba592-a368-4e69-a865-1598fa8880ba",
+    "accession": "CD162",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.094805,
+    "longitude": -59.987541
+  },
+  {
+    "id": "4f92a915-6649-494f-b18e-3bbfdf5f9f4e",
+    "accession": "GR116",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.096393,
+    "longitude": -59.986287
+  },
+  {
+    "id": "50664353-da53-40c0-b992-62f5e05d5481",
+    "accession": "ND243",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.096862,
+    "longitude": -59.986378
+  },
+  {
+    "id": "50876898-5b29-4cca-85f5-3971afe3f063",
+    "accession": "ND136",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.097518,
+    "longitude": -59.986704
+  },
+  {
+    "id": "50b62901-ee7b-44bc-99c8-f516b0a70cfa",
+    "accession": "GR041",
+    "familyName": "Hypericaceae",
+    "calcFullName": "Vismia",
+    "vernacularName": "",
+    "latitude": -3.094596,
+    "longitude": -59.9869
+  },
+  {
+    "id": "50d3bcc2-31e2-4cb4-9334-b79c37bc8663",
+    "accession": "GR292",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.09713167,
+    "longitude": -59.986835
+  },
+  {
+    "id": "51085f68-1db5-41ad-a4a5-842e5d537855",
+    "accession": "CD044",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium",
+    "vernacularName": "",
+    "latitude": -3.094604,
+    "longitude": -59.987788
+  },
+  {
+    "id": "5114f60e-4ea9-41b4-b643-f21f2a70df42",
+    "accession": "GR023",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria caimito (Ruiz & Pav.) Radlk.",
+    "vernacularName": "abiu",
+    "latitude": -3.095863,
+    "longitude": -59.986975
+  },
+  {
+    "id": "51ae6c23-e06f-4b42-8f4e-c30e22e8eb1e",
+    "accession": "PLANT030",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09451167,
+    "longitude": -59.98893
+  },
+  {
+    "id": "51c6ef65-c0b4-4ec8-b57f-071db8d6fe63",
+    "accession": "CD140",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Paullinia cupana var. sorbilis (Mart.) Ducke",
+    "vernacularName": "",
+    "latitude": -3.097079,
+    "longitude": -59.986612
+  },
+  {
+    "id": "53100cec-7630-45d6-9bf5-b4fe366f0a1b",
+    "accession": "INPA2",
+    "familyName": "Combretaceae",
+    "calcFullName": "Buchenavia huberi Ducke",
+    "vernacularName": "",
+    "latitude": -3.096684,
+    "longitude": -59.986343
+  },
+  {
+    "id": "53366b4a-7a3f-4c68-a70d-2049ec426057",
+    "accession": "GR251",
+    "familyName": "Ebenaceae",
+    "calcFullName": "Diospyros",
+    "vernacularName": "caqui",
+    "latitude": -3.09649833,
+    "longitude": -59.98662667
+  },
+  {
+    "id": "540ce6d9-2d97-498c-8615-102b1df9f817",
+    "accession": "GR039",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus heterophyllus Lam.",
+    "vernacularName": "",
+    "latitude": -3.096308,
+    "longitude": -59.986625
+  },
+  {
+    "id": "541ad4ad-65b5-4572-8dcb-0ea95adeca7c",
+    "accession": "CD213",
+    "familyName": "Dichapetalaceae",
+    "calcFullName": "Tapura guianensis Aubl.",
+    "vernacularName": "pau-de-bicho",
+    "latitude": -3.094818,
+    "longitude": -59.987685
+  },
+  {
+    "id": "544b5409-a205-4633-b1b5-654522896a68",
+    "accession": "ND397",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.097245,
+    "longitude": -59.986317
+  },
+  {
+    "id": "54859e2f-bf25-46c8-94a9-f7f54088e625",
+    "accession": "GR463",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.0973469,
+    "longitude": -59.9854781
+  },
+  {
+    "id": "55a490fb-baff-47b0-aa1a-5579a721d8b8",
+    "accession": "GR414",
+    "familyName": "Melastomataceae",
+    "calcFullName": "Miconia poeppigii Triana",
+    "vernacularName": "",
+    "latitude": -3.09912,
+    "longitude": -59.98485833
+  },
+  {
+    "id": "55d503c5-8056-4644-9a6d-fb6fbbf31be9",
+    "accession": "GR464",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga alba (Sw.) Willd.",
+    "vernacularName": "ingá-branca",
+    "latitude": -3.09733333,
+    "longitude": -59.98548333
+  },
+  {
+    "id": "563f88e1-ed03-4d1b-84a5-d92ffe10bd3e",
+    "accession": "GR311",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09698333,
+    "longitude": -59.98704667
+  },
+  {
+    "id": "5651a3b4-1704-447f-83ff-cca9e9e33228",
+    "accession": "GR157",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.095956,
+    "longitude": -59.987008
+  },
+  {
+    "id": "56941b0a-338b-45bf-9efd-0ee91bea5b38",
+    "accession": "GR102",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Hymenaea",
+    "vernacularName": "",
+    "latitude": -3.097404,
+    "longitude": -59.986247
+  },
+  {
+    "id": "56af45f7-0d23-4c20-8f32-0adc5bac9031",
+    "accession": "GR013",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron",
+    "vernacularName": "",
+    "latitude": -3.095778,
+    "longitude": -59.986975
+  },
+  {
+    "id": "56ccc245-aadf-4dd5-855e-cbdbffa700be",
+    "accession": "ND213",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.096681,
+    "longitude": -59.986557
+  },
+  {
+    "id": "57648da6-3244-4836-bc57-098284a146d4",
+    "accession": "CD309",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cynometra",
+    "vernacularName": "",
+    "latitude": -3.095237,
+    "longitude": -59.987252
+  },
+  {
+    "id": "57963b1e-3ccc-4347-8716-7fd97a69c824",
+    "accession": "ND384",
+    "familyName": "Moraceae",
+    "calcFullName": "Brosimum guianense (Aubl.) Huber",
+    "vernacularName": "",
+    "latitude": -3.097044,
+    "longitude": -59.986343
+  },
+  {
+    "id": "57bc7a28-96db-42e7-81c0-cf7541bf2921",
+    "accession": "GR479",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia patrisii Vahl",
+    "vernacularName": "",
+    "latitude": -3.095103,
+    "longitude": -59.987919
+  },
+  {
+    "id": "57e1d465-5053-42d4-96b5-fbc7dcad6fd7",
+    "accession": "GR055",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Coffea arabica Benth.",
+    "vernacularName": "cafeeiro",
+    "latitude": -3.095315,
+    "longitude": -59.987083
+  },
+  {
+    "id": "581b18f2-7687-4bf8-a37d-87f0917735d2",
+    "accession": "ND357",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.096159,
+    "longitude": -59.98638
+  },
+  {
+    "id": "592fc9bf-2b49-4ab2-91d9-f5c51ed80015",
+    "accession": "GR029",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Parkia",
+    "vernacularName": "",
+    "latitude": -3.09678,
+    "longitude": -59.985827
+  },
+  {
+    "id": "5956d5dc-f9ca-452d-93c6-28c84d8c4657",
+    "accession": "CD101",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.094224,
+    "longitude": -59.989124
+  },
+  {
+    "id": "5b212cb5-9301-437c-bc46-0d943980a441",
+    "accession": "CD026",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia corrugata Benth.",
+    "vernacularName": "muirajiboia",
+    "latitude": -3.095071,
+    "longitude": -59.987387
+  },
+  {
+    "id": "5b6cce6c-dfdf-4b08-9990-729ae8670f89",
+    "accession": "GR436",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09782,
+    "longitude": -59.98528667
+  },
+  {
+    "id": "5be13c91-a4d2-493a-b6d6-e0b5d605bcd9",
+    "accession": "ND329",
+    "familyName": "Combretaceae",
+    "calcFullName": "Buchenavia parvifolia Ducke",
+    "vernacularName": "",
+    "latitude": -3.097159,
+    "longitude": -59.986809
+  },
+  {
+    "id": "5c510ad2-4965-435e-89a4-ee61e2c7cb91",
+    "accession": "GR291",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Dialium guianense (Aubl.) Sandwith",
+    "vernacularName": "jutaí-pororoca",
+    "latitude": -3.09713,
+    "longitude": -59.986675
+  },
+  {
+    "id": "5c6c8232-d2f2-42ba-87c2-66e4d4357ef8",
+    "accession": "GR200",
+    "familyName": "Meliaceae",
+    "calcFullName": "Guarea silvatica C.DC.",
+    "vernacularName": "jitó",
+    "latitude": -3.09672333,
+    "longitude": -59.98660667
+  },
+  {
+    "id": "5db57fed-b9b6-4296-9cec-a72efedfb48d",
+    "accession": "GR131",
+    "familyName": "Vochysiaceae",
+    "calcFullName": "Qualea paraensis Ducke",
+    "vernacularName": "",
+    "latitude": -3.096481,
+    "longitude": -59.986189
+  },
+  {
+    "id": "5deb6266-2b34-46c9-822c-da021c98803c",
+    "accession": "GR415",
+    "familyName": "Malpighiaceae",
+    "calcFullName": "Byrsonima",
+    "vernacularName": "muricí",
+    "latitude": -3.09908667,
+    "longitude": -59.98482333
+  },
+  {
+    "id": "5e4cc3f3-9c1e-40ec-a4c4-b4f620700fa2",
+    "accession": "PLANT020",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.09647667,
+    "longitude": -59.98789333
+  },
+  {
+    "id": "5ef95fc1-487b-4e43-9bbd-c3f66dd4e5c8",
+    "accession": "GR469",
+    "familyName": "Araliaceae",
+    "calcFullName": "Didymopanax morototoni (Aubl.) Decne. & Planch.",
+    "vernacularName": "morototó",
+    "latitude": -3.09715333,
+    "longitude": -59.98563
+  },
+  {
+    "id": "5f61b5f2-2819-437b-8486-1e822fc47b51",
+    "accession": "GR07",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron tortum M.L.Soares & Mayo",
+    "vernacularName": "",
+    "latitude": -3.095243,
+    "longitude": -59.987804
+  },
+  {
+    "id": "5fcc3b25-5ea9-4676-ac7b-0271b821b965",
+    "accession": "GR279",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.09713167,
+    "longitude": -59.98658167
+  },
+  {
+    "id": "602a35b5-028e-4d3b-b4f4-f01381fd05c0",
+    "accession": "GR016A",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola venosa (Benth.) Warb.",
+    "vernacularName": "ucuúba-branca",
+    "latitude": -3.094935,
+    "longitude": -59.986488
+  },
+  {
+    "id": "605c872d-dd65-469a-b098-682ffc0e7463",
+    "accession": "ND128",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Alibertia",
+    "vernacularName": "",
+    "latitude": -3.096648,
+    "longitude": -59.986921
+  },
+  {
+    "id": "60747e5d-c34b-4cd7-b775-bbab7283f5be",
+    "accession": "GR172",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.0967894,
+    "longitude": -59.9866216
+  },
+  {
+    "id": "6075ce63-dfcb-4847-847f-fccd24199633",
+    "accession": "GR012",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.095674,
+    "longitude": -59.986882
+  },
+  {
+    "id": "614d4a74-0660-4a86-8f11-ffc43475e8b5",
+    "accession": "GR442",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.09767333,
+    "longitude": -59.98545667
+  },
+  {
+    "id": "61f0a9ae-04a1-4965-a255-d9a452cc4853",
+    "accession": "GR190",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium ferrugineum (Engl.) Engl.",
+    "vernacularName": "breu",
+    "latitude": -3.09682,
+    "longitude": -59.98663833
+  },
+  {
+    "id": "6200ddb2-1729-4b08-891e-f2ddcfef58bf",
+    "accession": "GR228",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.09689,
+    "longitude": -59.98645167
+  },
+  {
+    "id": "6219dad8-487c-4e66-ba6e-7a55026a809e",
+    "accession": "PLANT016",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.09580058,
+    "longitude": -59.98841565
+  },
+  {
+    "id": "62acc061-bb03-4bbe-ab2a-c6dc75e97642",
+    "accession": "CD233",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia",
+    "vernacularName": "",
+    "latitude": -3.096766,
+    "longitude": -59.987508
+  },
+  {
+    "id": "62d58072-fb44-4ec1-9deb-d8fe0662ec11",
+    "accession": "GR053",
+    "familyName": "Poaceae",
+    "calcFullName": "Bambusa",
+    "vernacularName": "",
+    "latitude": -3.100591,
+    "longitude": -59.984216
+  },
+  {
+    "id": "634f3c53-d52c-4cc6-a23d-818d7acf2ad1",
+    "accession": "CD047",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma cacao L.",
+    "vernacularName": "cacau-verdadeira",
+    "latitude": -3.096197,
+    "longitude": -59.988148
+  },
+  {
+    "id": "6416ced1-1409-4743-b697-7a5e26559f0d",
+    "accession": "CD264",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Peschiera",
+    "vernacularName": "",
+    "latitude": -3.097059,
+    "longitude": -59.98769
+  },
+  {
+    "id": "641e0b60-c82a-4ac4-8587-ea28c0d20b05",
+    "accession": "PLANT014",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Vatairea paraensis Ducke",
+    "vernacularName": "",
+    "latitude": -3.09579321,
+    "longitude": -59.98641942
+  },
+  {
+    "id": "644e290d-5af5-4690-999a-0f3139ac05f2",
+    "accession": "GR237",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia esculenta (Cambess.) Radlk.",
+    "vernacularName": "pitombeira",
+    "latitude": -3.09702167,
+    "longitude": -59.98654
+  },
+  {
+    "id": "64cd6fed-6f51-4865-9668-977b206645c1",
+    "accession": "GR455",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.098175,
+    "longitude": -59.985755
+  },
+  {
+    "id": "64f30b44-9f8f-4eee-9cfc-3545026be2aa",
+    "accession": "CD052",
+    "familyName": "Hypericaceae",
+    "calcFullName": "Vismia cayennensis (Jacq.) Pers.",
+    "vernacularName": "",
+    "latitude": -3.095286,
+    "longitude": -59.987717
+  },
+  {
+    "id": "654ce382-3d15-4fca-b66a-feabfe95e284",
+    "accession": "GR320",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Hymenopus heteromorphus (Benth.) Sothers & Prance",
+    "vernacularName": "macucú",
+    "latitude": -3.09719833,
+    "longitude": -59.98721333
+  },
+  {
+    "id": "6568c450-7fd7-4920-96d7-6818152c4ca3",
+    "accession": "GR297",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria caimito (Ruiz & Pav.) Radlk.",
+    "vernacularName": "abiu",
+    "latitude": -3.09727,
+    "longitude": -59.98636
+  },
+  {
+    "id": "66b336b4-8878-4250-8785-6e4162af86c0",
+    "accession": "GR181",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus bacaba Mart.",
+    "vernacularName": "bacaba",
+    "latitude": -3.0968414,
+    "longitude": -59.9864964
+  },
+  {
+    "id": "671badbe-ad1a-49fb-9b58-eb7707927ba4",
+    "accession": "CD265",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola venosa (Benth.) Warb.",
+    "vernacularName": "ucuúba-branca",
+    "latitude": -3.097047,
+    "longitude": -59.987727
+  },
+  {
+    "id": "67680fe1-2ee6-47ea-9892-c9ad647e5e21",
+    "accession": "GR309",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Zygia racemosa (Ducke) Barneby & J.W.Grimes",
+    "vernacularName": "angelim-rajado",
+    "latitude": -3.09700167,
+    "longitude": -59.98690833
+  },
+  {
+    "id": "677c3311-23d2-40aa-8301-6782af68c559",
+    "accession": "GR0101",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Plumeria",
+    "vernacularName": "",
+    "latitude": -3.097462,
+    "longitude": -59.986798
+  },
+  {
+    "id": "67946b77-c3a0-4325-8c3a-1b04c6365d40",
+    "accession": "GR283",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.09728167,
+    "longitude": -59.98662833
+  },
+  {
+    "id": "681d9a1a-b066-4a87-b0ef-20233bc87767",
+    "accession": "GR095",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.098114,
+    "longitude": -59.984523
+  },
+  {
+    "id": "68e59a77-bf69-431d-aee1-9a8f4adc5003",
+    "accession": "CD068",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Acioa longipendula (Pilg.) Sothers & Prance",
+    "vernacularName": "castanha-de-galinha",
+    "latitude": -3.094601,
+    "longitude": -59.988293
+  },
+  {
+    "id": "69240e26-4805-4acd-b8bc-65080e13db09",
+    "accession": "GR097",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.094434,
+    "longitude": -59.989246
+  },
+  {
+    "id": "695482ed-5d25-4f66-af64-7d8617e77e0f",
+    "accession": "GR439",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.0975894,
+    "longitude": -59.9852105
+  },
+  {
+    "id": "6a182a51-edaf-4adc-80df-c4302291f273",
+    "accession": "CD249",
+    "familyName": "Meliaceae",
+    "calcFullName": "Guarea duckei C.DC.",
+    "vernacularName": "",
+    "latitude": -3.097469,
+    "longitude": -59.987671
+  },
+  {
+    "id": "6a186535-82b1-4186-b872-7f0fe2e5711e",
+    "accession": "CD314",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus bataua Mart.",
+    "vernacularName": "",
+    "latitude": -3.095119,
+    "longitude": -59.987172
+  },
+  {
+    "id": "6a18c7fd-6e9b-4c75-a53e-37f55d051369",
+    "accession": "ND333",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Manilkara zapota (L.) P.Royen",
+    "vernacularName": "",
+    "latitude": -3.097222,
+    "longitude": -59.986741
+  },
+  {
+    "id": "6a2f3ad4-82ac-43a2-8346-2a1d2bb2912f",
+    "accession": "GR155",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Genipa americana L.",
+    "vernacularName": "",
+    "latitude": -3.095354,
+    "longitude": -59.989143
+  },
+  {
+    "id": "6a9ea660-62c3-4e43-9930-0d81e5b6e50b",
+    "accession": "GR178",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium rhoifolium (Benth.) Byng & Christenh.",
+    "vernacularName": "breu-branco",
+    "latitude": -3.096845,
+    "longitude": -59.9866
+  },
+  {
+    "id": "6aab22ce-8e0b-4a31-9306-5fcc5805eda4",
+    "accession": "PLANT031",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09446333,
+    "longitude": -59.98868333
+  },
+  {
+    "id": "6ab3367c-3b1b-4156-984e-d5297aae323c",
+    "accession": "GR039",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus heterophyllus Lam.",
+    "vernacularName": "",
+    "latitude": -3.094828,
+    "longitude": -59.989402
+  },
+  {
+    "id": "6b05d890-a7a2-4159-9efb-526462244e15",
+    "accession": "PLANT024",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.09467067,
+    "longitude": -59.98960689
+  },
+  {
+    "id": "6b1e1930-fde0-4c36-b548-6a3128e0033f",
+    "accession": "GR242",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.096925,
+    "longitude": -59.98652167
+  },
+  {
+    "id": "6b6ec8a3-b786-441b-abe0-98d3f0e51740",
+    "accession": "GR111",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.094757,
+    "longitude": -59.988548
+  },
+  {
+    "id": "6c14e80a-6c59-4eee-9a50-d995a12ca642",
+    "accession": "GR04",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Acioa longipendula (Pilg.) Sothers & Prance",
+    "vernacularName": "castanha-de-galinha",
+    "latitude": -3.094586,
+    "longitude": -59.988597
+  },
+  {
+    "id": "6c2e7c94-5960-41f9-b918-990b67662c51",
+    "accession": "GR169",
+    "familyName": "Moraceae",
+    "calcFullName": "Trymatococcus amazonicus Poepp. & Endl.",
+    "vernacularName": "pilima",
+    "latitude": -3.0968,
+    "longitude": -59.98647833
+  },
+  {
+    "id": "6c810082-d98e-4075-8700-4facd00c69d4",
+    "accession": "GR225",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea tomentosa Benth.",
+    "vernacularName": "oitizeiro",
+    "latitude": -3.09681667,
+    "longitude": -59.98626
+  },
+  {
+    "id": "6cd2f8e8-a0ce-4e5d-afff-380767f2b1c2",
+    "accession": "CD018",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.095323,
+    "longitude": -59.987591
+  },
+  {
+    "id": "6ceb1ad4-2819-4305-976b-db02d68890ec",
+    "accession": "GR334",
+    "familyName": "Moraceae",
+    "calcFullName": "Trymatococcus amazonicus Poepp. & Endl.",
+    "vernacularName": "pilima",
+    "latitude": -3.09743667,
+    "longitude": -59.98777667
+  },
+  {
+    "id": "6d8d98b3-6aa0-4f11-aed6-433f034127bf",
+    "accession": "GR188",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.096865,
+    "longitude": -59.98664167
+  },
+  {
+    "id": "6db45ece-f56a-40f2-be61-89db77d5cdf7",
+    "accession": "ND263",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera odora (Poepp. ex van den Berg) Miers",
+    "vernacularName": "",
+    "latitude": -3.096985,
+    "longitude": -59.986819
+  },
+  {
+    "id": "6e0aa0e2-a234-402e-b81f-59dade0617cd",
+    "accession": "GR06",
+    "familyName": "Araceae",
+    "calcFullName": "Dracontium amazonense G.H.Zhu & Croat",
+    "vernacularName": "",
+    "latitude": -3.093904,
+    "longitude": -59.988855
+  },
+  {
+    "id": "6e189eb3-1c55-47a2-a61a-8961be427f8f",
+    "accession": "LC004",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09813484,
+    "longitude": -59.9857672
+  },
+  {
+    "id": "6e1e60df-3c4e-4eeb-8707-9b5ff2708861",
+    "accession": "ND279",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis prancei S.A.Mori",
+    "vernacularName": "",
+    "latitude": -3.09692,
+    "longitude": -59.986588
+  },
+  {
+    "id": "6eb767d1-4da7-490c-bd98-2c1c6001e439",
+    "accession": "GR201",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Micropholis",
+    "vernacularName": "rosadinha",
+    "latitude": -3.096785,
+    "longitude": -59.98657667
+  },
+  {
+    "id": "6ec5a629-269f-43d3-9741-37601ea0657e",
+    "accession": "CD181",
+    "familyName": "Simaroubaceae",
+    "calcFullName": "Simarouba amara Aubl.",
+    "vernacularName": "marupá",
+    "latitude": -3.094918,
+    "longitude": -59.987499
+  },
+  {
+    "id": "6ee5d6bf-f9cf-47c3-b84c-1bac51aa0011",
+    "accession": "CD168",
+    "familyName": "Cochlospermaceae",
+    "calcFullName": "Cochlospermum orinocense (Kunth) Steud.",
+    "vernacularName": "algodão-bravo",
+    "latitude": -3.095921,
+    "longitude": -59.988196
+  },
+  {
+    "id": "6f39aecd-1cfc-46a8-ac24-5cbeeb8977db",
+    "accession": "GR011",
+    "familyName": "Bixaceae",
+    "calcFullName": "Bixa orellana L.",
+    "vernacularName": "urucum",
+    "latitude": -3.09822,
+    "longitude": -59.984582
+  },
+  {
+    "id": "6f489167-fccb-4add-a80a-208e3d8b031c",
+    "accession": "CD236",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Vouarana guianensis Aubl.",
+    "vernacularName": "",
+    "latitude": -3.096598,
+    "longitude": -59.987733
+  },
+  {
+    "id": "6f66b1bc-fafa-46f5-87d6-63c8387a681b",
+    "accession": "GR067",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa carambola L.",
+    "vernacularName": "",
+    "latitude": -3.09703,
+    "longitude": -59.987588
+  },
+  {
+    "id": "6f84d9d8-9d4c-4b74-9935-fd72143bd809",
+    "accession": "GR047",
+    "familyName": "Annonaceae",
+    "calcFullName": "Guatteria scytophylla Diels",
+    "vernacularName": "",
+    "latitude": -3.095201,
+    "longitude": -59.987122
+  },
+  {
+    "id": "6f8a7c9b-33bb-48ab-b99e-d073470f141d",
+    "accession": "GR202",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Cupania scrobiculata Rich.",
+    "vernacularName": "cupania",
+    "latitude": -3.09674,
+    "longitude": -59.98657667
+  },
+  {
+    "id": "70130749-51c6-485d-819b-ba17f549c820",
+    "accession": "GR208",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.096675,
+    "longitude": -59.98654667
+  },
+  {
+    "id": "7067b364-8ba3-471a-a149-7723829d2d63",
+    "accession": "CD253",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania",
+    "vernacularName": "",
+    "latitude": -3.094917,
+    "longitude": -59.98812
+  },
+  {
+    "id": "706cc682-ce38-4207-bee3-49cd3792cf75",
+    "accession": "GR089",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.095301,
+    "longitude": -59.98691
+  },
+  {
+    "id": "710601e7-9f14-4563-b22f-b2cd1f3e04c4",
+    "accession": "ND355",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.097136,
+    "longitude": -59.986392
+  },
+  {
+    "id": "716f19fa-dd24-4cfe-8136-b64c1644e714",
+    "accession": "CD090",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.094963,
+    "longitude": -59.986505
+  },
+  {
+    "id": "717b060c-b910-4094-bd4f-c77c97604c83",
+    "accession": "CD033",
+    "familyName": "Achariaceae",
+    "calcFullName": "Lindackeria paludosa (Benth.) Gilg",
+    "vernacularName": "",
+    "latitude": -3.094454,
+    "longitude": -59.989329
+  },
+  {
+    "id": "71e807af-6ce4-4ffd-a130-7dfc0ef3e53d",
+    "accession": "GR095",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.095603,
+    "longitude": -59.987065
+  },
+  {
+    "id": "734596eb-3e72-44a0-bea3-9fcbe5638993",
+    "accession": "GR045",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona muricata L.",
+    "vernacularName": "",
+    "latitude": -3.09548,
+    "longitude": -59.988593
+  },
+  {
+    "id": "7387d70e-ff9d-4de2-8839-aaecf5a3bdcd",
+    "accession": "GR036",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.094801,
+    "longitude": -59.989341
+  },
+  {
+    "id": "74508505-0998-416c-9bb2-b747eebcad36",
+    "accession": "GR238",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.096995,
+    "longitude": -59.98659667
+  },
+  {
+    "id": "74949a6f-199d-4764-94f3-d8b66c51738d",
+    "accession": "ND208",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis lurida (Miers) S.A.Mori",
+    "vernacularName": "",
+    "latitude": -3.096573,
+    "longitude": -59.986507
+  },
+  {
+    "id": "74c88d1e-8950-4d1e-aff0-756aae9dc47f",
+    "accession": "GR164",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Parkia pendula (Willd.) Benth. ex Walp.",
+    "vernacularName": "",
+    "latitude": -3.095795,
+    "longitude": -59.987491
+  },
+  {
+    "id": "75d465c9-ca99-4f44-b17c-43d82a376418",
+    "accession": "CD100",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania",
+    "vernacularName": "",
+    "latitude": -3.094164,
+    "longitude": -59.989068
+  },
+  {
+    "id": "765534f1-42ca-4a92-88a5-f199f1554c79",
+    "accession": "GR060",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Garcinia",
+    "vernacularName": "",
+    "latitude": -3.097482,
+    "longitude": -59.986513
+  },
+  {
+    "id": "773d8781-eaf2-4eeb-9ca0-3f0a9b31731f",
+    "accession": "GR150",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.095832,
+    "longitude": -59.987007
+  },
+  {
+    "id": "773eb992-46ae-4547-9d19-98180d83fcce",
+    "accession": "GR253",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09656833,
+    "longitude": -59.98664833
+  },
+  {
+    "id": "77c9dc7d-4839-424f-ac8d-9b9a115809bb",
+    "accession": "GR243",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium apiculatum Swart",
+    "vernacularName": "breu-vermelho",
+    "latitude": -3.09690167,
+    "longitude": -59.986625
+  },
+  {
+    "id": "78c762ad-de3f-478e-8617-d6e33cbf8bc7",
+    "accession": "CD127",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.09616,
+    "longitude": -59.986366
+  },
+  {
+    "id": "797c18dc-3b43-4605-b344-6e80b961fbb8",
+    "accession": "GR502",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.095258,
+    "longitude": -59.987823
+  },
+  {
+    "id": "79b02e82-a2b1-4b52-9787-5df671d1dcf0",
+    "accession": "CD109",
+    "familyName": "Annonaceae",
+    "calcFullName": "Guatteria scytophylla Diels",
+    "vernacularName": "",
+    "latitude": -3.093784,
+    "longitude": -59.988473
+  },
+  {
+    "id": "7a68dceb-2d11-4cf6-88c1-cfe324315019",
+    "accession": "GR125",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.097097,
+    "longitude": -59.986903
+  },
+  {
+    "id": "7a704d18-e9d1-4430-b97a-29947da58d7b",
+    "accession": "ND242",
+    "familyName": "Moraceae",
+    "calcFullName": "Trymatococcus turbinatus Ducke",
+    "vernacularName": "",
+    "latitude": -3.096857,
+    "longitude": -59.986544
+  },
+  {
+    "id": "7a8576ae-cb7b-4efb-a769-ff26e50e27f8",
+    "accession": "GR224",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea tomentosa Benth.",
+    "vernacularName": "oitizeiro",
+    "latitude": -3.09683,
+    "longitude": -59.986285
+  },
+  {
+    "id": "7a97943b-80c0-41e8-b249-092d3a29d4b1",
+    "accession": "GR011",
+    "familyName": "Bixaceae",
+    "calcFullName": "Bixa orellana L.",
+    "vernacularName": "urucum",
+    "latitude": -3.097479,
+    "longitude": -59.986798
+  },
+  {
+    "id": "7b1bd93f-a689-40f5-b922-c58b3a86cb3b",
+    "accession": "PLANT026",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09480425,
+    "longitude": -59.98874523
+  },
+  {
+    "id": "7b35e717-b45f-4659-9bcd-98371f726dd6",
+    "accession": "CD090",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.09456,
+    "longitude": -59.989424
+  },
+  {
+    "id": "7b36cdf2-3e04-4c44-a429-74cb721e24e6",
+    "accession": "GR239",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.09703333,
+    "longitude": -59.98660833
+  },
+  {
+    "id": "7b51ee72-1b00-4428-98af-4622f98c37f7",
+    "accession": "CD336",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea attaleoides (Barb.Rodr.) Wess.Boer",
+    "vernacularName": "",
+    "latitude": -3.09531,
+    "longitude": -59.987084
+  },
+  {
+    "id": "7bc6ae97-5cf8-49dc-a8fa-9b6fab162abe",
+    "accession": "GR509",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.095295,
+    "longitude": -59.987851
+  },
+  {
+    "id": "7c4e5e5a-499a-4710-8b09-fb71f3af4bd7",
+    "accession": "CD061",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa carambola L.",
+    "vernacularName": "",
+    "latitude": -3.095207,
+    "longitude": -59.98756
+  },
+  {
+    "id": "7cc9964c-a601-4126-9552-03b1fc12b4db",
+    "accession": "GR058",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia uniflora L.",
+    "vernacularName": "",
+    "latitude": -3.09546,
+    "longitude": -59.98841
+  },
+  {
+    "id": "7d865a3c-ff81-4418-a183-b98e0c77cc3c",
+    "accession": "GR09",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Caesalpinia ferrea Mart.",
+    "vernacularName": "",
+    "latitude": -3.095418,
+    "longitude": -59.98876
+  },
+  {
+    "id": "7dff5c8c-654e-4eff-a461-f5d33af8ca36",
+    "accession": "GR134",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.100226,
+    "longitude": -59.985128
+  },
+  {
+    "id": "7e05f79c-2188-4785-b989-8aae173058c7",
+    "accession": "GR432",
+    "familyName": "Moraceae",
+    "calcFullName": "Brosimum rubescens Taub.",
+    "vernacularName": "pau-rainha",
+    "latitude": -3.09789667,
+    "longitude": -59.98515333
+  },
+  {
+    "id": "7e169e04-dd36-4244-8458-92900639d08b",
+    "accession": "GR097",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.094327,
+    "longitude": -59.989232
+  },
+  {
+    "id": "7ed95cd7-1e63-4846-b01b-54a17a75d2f0",
+    "accession": "GR158",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.094037,
+    "longitude": -59.990283
+  },
+  {
+    "id": "7f32fe0c-8bcd-469f-a5b0-eddce0606965",
+    "accession": "GR149",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.09607,
+    "longitude": -59.988696
+  },
+  {
+    "id": "7ff27f1a-dc3d-4b55-9024-715afba73231",
+    "accession": "CD014",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.",
+    "vernacularName": "",
+    "latitude": -3.094538,
+    "longitude": -59.988824
+  },
+  {
+    "id": "801ab22f-d760-40bf-979d-4d1f49f6ac92",
+    "accession": "GR231",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.096945,
+    "longitude": -59.98633333
+  },
+  {
+    "id": "807520e4-5014-488f-b413-b9d6ae032265",
+    "accession": "PLANT023",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09466667,
+    "longitude": -59.989575
+  },
+  {
+    "id": "80e3510f-31ca-4e02-87b2-5c2090ef7b33",
+    "accession": "GR040",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.095633,
+    "longitude": -59.987031
+  },
+  {
+    "id": "813feccd-b577-4a90-af54-4911e82ab03c",
+    "accession": "GR042",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.095071,
+    "longitude": -59.988103
+  },
+  {
+    "id": "8156fbce-4163-4eac-9904-536267b4afc2",
+    "accession": "GR219",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia schomburgkii Benth.",
+    "vernacularName": "arabá",
+    "latitude": -3.096735,
+    "longitude": -59.98640333
+  },
+  {
+    "id": "819fabcd-bf8d-4bc8-8eb6-8e3fbd27e1e4",
+    "accession": "GR125",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.097226,
+    "longitude": -59.986461
+  },
+  {
+    "id": "81d9c114-f813-43a2-95e9-721805a8df85",
+    "accession": "GR067",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa carambola L.",
+    "vernacularName": "",
+    "latitude": -3.097026,
+    "longitude": -59.987602
+  },
+  {
+    "id": "839d75a5-9341-41e0-a5d4-a6b91fb7d100",
+    "accession": "GR102",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Hymenaea",
+    "vernacularName": "",
+    "latitude": -3.094379,
+    "longitude": -59.988445
+  },
+  {
+    "id": "83aae81a-0766-4ae5-8a74-33dc83c973ed",
+    "accession": "GR245",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.096905,
+    "longitude": -59.986715
+  },
+  {
+    "id": "8418035b-48cc-4c65-8505-dcd9c4082797",
+    "accession": "GR129",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.096162,
+    "longitude": -59.986513
+  },
+  {
+    "id": "842cdc95-6c1e-4f70-b59b-c7a7f2ed264b",
+    "accession": "CD302",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Manilkara zapota (L.) P.Royen",
+    "vernacularName": "",
+    "latitude": -3.095152,
+    "longitude": -59.98668
+  },
+  {
+    "id": "858348b3-823d-4134-b118-7596f3420ae7",
+    "accession": "GR037",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Jatropha curcas L.",
+    "vernacularName": "",
+    "latitude": -3.095349,
+    "longitude": -59.988423
+  },
+  {
+    "id": "86520fc7-438f-4927-ab46-1b542027549c",
+    "accession": "GR285",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.09728,
+    "longitude": -59.98666333
+  },
+  {
+    "id": "86b4e386-4acc-403f-ba59-1abacae3958a",
+    "accession": "GR051",
+    "familyName": "Malpighiaceae",
+    "calcFullName": "Malpighia emarginata DC.",
+    "vernacularName": "",
+    "latitude": -3.096366,
+    "longitude": -59.98668
+  },
+  {
+    "id": "86f47948-5e97-48e4-a5dc-a932dd9806b3",
+    "accession": "GR013",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron",
+    "vernacularName": "",
+    "latitude": -3.095621,
+    "longitude": -59.987064
+  },
+  {
+    "id": "87da8ba8-0cb9-4ee0-9a21-2e6b6662403f",
+    "accession": "CD278",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma sylvestre Mart.",
+    "vernacularName": "cacau-da-mata",
+    "latitude": -3.095376,
+    "longitude": -59.987567
+  },
+  {
+    "id": "87f82cb6-164a-417c-8f13-de3a2ff4da10",
+    "accession": "PLANT012",
+    "familyName": "Indet.",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09574936,
+    "longitude": -59.98664439
+  },
+  {
+    "id": "88313d50-dffc-4542-8621-f382d9fcb3a6",
+    "accession": "GR486",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.096552,
+    "longitude": -59.987727
+  },
+  {
+    "id": "88577145-4355-45dc-b008-4098734b76fd",
+    "accession": "GR222",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea tomentosa Benth.",
+    "vernacularName": "oitizeiro",
+    "latitude": -3.09671167,
+    "longitude": -59.98635333
+  },
+  {
+    "id": "887e4196-9bc3-4ca7-a173-72e26b5f27db",
+    "accession": "ND02",
+    "familyName": "Moraceae",
+    "calcFullName": "Trymatococcus turbinatus Ducke",
+    "vernacularName": "",
+    "latitude": -3.097134,
+    "longitude": -59.987172
+  },
+  {
+    "id": "88c3341b-02ce-425a-990c-75ab32fdd32f",
+    "accession": "CD038",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Hymenaea courbaril L.",
+    "vernacularName": "",
+    "latitude": -3.094419,
+    "longitude": -59.988804
+  },
+  {
+    "id": "89505e4e-d4e4-4b28-a40e-f6e2fdb15926",
+    "accession": "GR185",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Duroia",
+    "vernacularName": "puruí",
+    "latitude": -3.09686,
+    "longitude": -59.98654833
+  },
+  {
+    "id": "89fab74f-53ff-41e0-91f8-09f4ea5be3fa",
+    "accession": "CD011",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.094595,
+    "longitude": -59.988122
+  },
+  {
+    "id": "8a4f08df-3b50-42d2-bc0f-e03389c531ea",
+    "accession": "GR440",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cenostigma tocantinum Ducke",
+    "vernacularName": "pau-pretinha",
+    "latitude": -3.09741167,
+    "longitude": -59.98534667
+  },
+  {
+    "id": "8a85b0b8-eb07-4657-b27b-01e9fbe297bd",
+    "accession": "GR038",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa bilimbi L.",
+    "vernacularName": "",
+    "latitude": -3.095289,
+    "longitude": -59.986952
+  },
+  {
+    "id": "8b54126a-e1b9-4758-9fae-3019d261e0b1",
+    "accession": "GR223",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Moquilea tomentosa Benth.",
+    "vernacularName": "oitizeiro",
+    "latitude": -3.096865,
+    "longitude": -59.98627833
+  },
+  {
+    "id": "8be3f446-daee-4b54-b57a-e0621aab4d45",
+    "accession": "GR032",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.095228,
+    "longitude": -59.987583
+  },
+  {
+    "id": "8cd0b8fb-a529-4309-a87d-79b32393ed96",
+    "accession": "CD267",
+    "familyName": "Burseraceae",
+    "calcFullName": "Dacryodes",
+    "vernacularName": "",
+    "latitude": -3.097115,
+    "longitude": -59.987697
+  },
+  {
+    "id": "8ddedbef-b012-4922-80df-acda15dc6eb0",
+    "accession": "GR073",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.097525,
+    "longitude": -59.986532
+  },
+  {
+    "id": "8e2ed972-4017-491d-9def-26ec708a79a0",
+    "accession": "GR321",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Toulicia pulvinata Radlk.",
+    "vernacularName": "breu-de-tucano",
+    "latitude": -3.0972415,
+    "longitude": -59.9872211
+  },
+  {
+    "id": "8e7c3215-dead-4d38-b2ff-08d7be836251",
+    "accession": "GR337",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga edulis Mart.",
+    "vernacularName": "ingá-do-metro",
+    "latitude": -3.097123,
+    "longitude": -59.987732
+  },
+  {
+    "id": "8eb21527-caf0-43d7-9dcc-e1778b66cf93",
+    "accession": "CD099",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095091,
+    "longitude": -59.987188
+  },
+  {
+    "id": "8ecf6cca-9e85-4d46-9abc-edb0e18ec7de",
+    "accession": "GR038",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa bilimbi L.",
+    "vernacularName": "",
+    "latitude": -3.095455,
+    "longitude": -59.988556
+  },
+  {
+    "id": "8f71770a-32c4-4282-a74d-54e8780f916a",
+    "accession": "CD085",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.0951,
+    "longitude": -59.986639
+  },
+  {
+    "id": "8f84509d-100b-4dcf-be68-6284bdfef70b",
+    "accession": "ND214",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Malanea",
+    "vernacularName": "",
+    "latitude": -3.096797,
+    "longitude": -59.98654
+  },
+  {
+    "id": "90a9b573-33d0-4fe3-bb9a-4b529b382489",
+    "accession": "GR182",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.09687333,
+    "longitude": -59.98664667
+  },
+  {
+    "id": "9117a31c-f777-4cc8-bab2-65b4a1493966",
+    "accession": "ND262",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium",
+    "vernacularName": "",
+    "latitude": -3.097026,
+    "longitude": -59.986551
+  },
+  {
+    "id": "913c0b6e-ff97-4f8a-abb2-97dc8ec565d4",
+    "accession": "PLANT021",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga",
+    "vernacularName": "",
+    "latitude": -3.09614833,
+    "longitude": -59.987945
+  },
+  {
+    "id": "91f017d2-9be4-460c-99cb-388963d17ca3",
+    "accession": "GR028",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia malaccensis L.",
+    "vernacularName": "",
+    "latitude": -3.095692,
+    "longitude": -59.988163
+  },
+  {
+    "id": "91f39a18-d1b5-4ed6-8de5-e45816101618",
+    "accession": "GR036",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.096423,
+    "longitude": -59.988221
+  },
+  {
+    "id": "92573e81-63a7-4ed8-828f-790a1a23c463",
+    "accession": "GR217",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.096615,
+    "longitude": -59.98648833
+  },
+  {
+    "id": "92df1b9c-6665-408d-940c-32fde9444459",
+    "accession": "GR488",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga",
+    "vernacularName": "",
+    "latitude": -3.096536,
+    "longitude": -59.987754
+  },
+  {
+    "id": "9319989d-4fc0-400a-aa48-33fb9be14ecc",
+    "accession": "GR193",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.09681833,
+    "longitude": -59.98645833
+  },
+  {
+    "id": "931e9b17-74e0-4d9a-9e61-d5036213d336",
+    "accession": "CD317",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Parkia oppositifolia Spruce ex Benth.",
+    "vernacularName": "",
+    "latitude": -3.095172,
+    "longitude": -59.986699
+  },
+  {
+    "id": "9365e708-9a68-44f3-bb45-7b78d2898ee7",
+    "accession": "GR314",
+    "familyName": "Burseraceae",
+    "calcFullName": "Trattinnickia rhoifolia Willd.",
+    "vernacularName": "breu-sucuruba",
+    "latitude": -3.0970351,
+    "longitude": -59.986979
+  },
+  {
+    "id": "936fe4b6-2afc-4e02-b021-5ccc605669a0",
+    "accession": "CD200",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Ambelania acida Aubl.",
+    "vernacularName": "",
+    "latitude": -3.095057,
+    "longitude": -59.988013
+  },
+  {
+    "id": "93b888ed-7ce0-4c22-87a1-8b20cee973d4",
+    "accession": "GR127",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.095275,
+    "longitude": -59.987606
+  },
+  {
+    "id": "93d16813-0a89-43a9-aa09-f1d54b52a661",
+    "accession": "GR159",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.095086,
+    "longitude": -59.987185
+  },
+  {
+    "id": "943108f3-e277-43bf-88b5-f4ab7d254a1d",
+    "accession": "ND324",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.097092,
+    "longitude": -59.986865
+  },
+  {
+    "id": "9455602e-936e-46ad-b495-30cd719c0f78",
+    "accession": "GR062",
+    "familyName": "Verbenaceae",
+    "calcFullName": "Lantana camara L.",
+    "vernacularName": "",
+    "latitude": -3.099351,
+    "longitude": -59.983984
+  },
+  {
+    "id": "94d01e34-dfdb-4006-8e16-9ac39b335cbe",
+    "accession": "CD269",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia cerasina (Benth.) Radlk.",
+    "vernacularName": "",
+    "latitude": -3.097231,
+    "longitude": -59.98793
+  },
+  {
+    "id": "94def8e4-f83b-4ceb-ab85-36c0f8c15df8",
+    "accession": "PLANT019",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.09644538,
+    "longitude": -59.98827048
+  },
+  {
+    "id": "95f2a56e-f1b9-451f-883e-b4403214ec30",
+    "accession": "PLANT009",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09557761,
+    "longitude": -59.98662796
+  },
+  {
+    "id": "966c96fd-b853-429a-97a7-5ccb5f5fbcf0",
+    "accession": "GR293",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.09712,
+    "longitude": -59.98647333
+  },
+  {
+    "id": "969c9bf7-85e9-445a-b8b9-2495821307a4",
+    "accession": "ND190",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.096559,
+    "longitude": -59.986624
+  },
+  {
+    "id": "96a33040-9250-41a7-b21c-7ef7643e4175",
+    "accession": "ND343",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.097195,
+    "longitude": -59.986633
+  },
+  {
+    "id": "96d01cd1-2db3-43d6-9dd0-9af704b8aa96",
+    "accession": "GR429",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.09804667,
+    "longitude": -59.98506333
+  },
+  {
+    "id": "97644fcc-39ee-4f2a-8bb3-7fa88e6a9312",
+    "accession": "GR094",
+    "familyName": "Acanthaceae",
+    "calcFullName": "Sanchezia parvibracteata Sprague & Hutch.",
+    "vernacularName": "",
+    "latitude": -3.094752,
+    "longitude": -59.987947
+  },
+  {
+    "id": "979bb22b-6075-49e2-b13f-ee5bf4ef6ab3",
+    "accession": "GR453",
+    "familyName": "Lauraceae",
+    "calcFullName": "Ocotea",
+    "vernacularName": "",
+    "latitude": -3.09803,
+    "longitude": -59.985755
+  },
+  {
+    "id": "97af5357-9cce-4772-a99d-b146055a4de3",
+    "accession": "PLANT011",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.09568006,
+    "longitude": -59.98662494
+  },
+  {
+    "id": "98c263f3-97d6-43e0-a308-f2d5ac4ee05d",
+    "accession": "CD337",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Chrysophyllum durifructum (W.A.Rodrigues) T.D.Penn.",
+    "vernacularName": "",
+    "latitude": -3.095354,
+    "longitude": -59.987305
+  },
+  {
+    "id": "98dccfe7-2642-4bd7-baa5-932fd5a03f72",
+    "accession": "GR107",
+    "familyName": "Annonaceae",
+    "calcFullName": "Unonopsis",
+    "vernacularName": "",
+    "latitude": -3.096928,
+    "longitude": -59.986944
+  },
+  {
+    "id": "9916783b-81c3-434b-8b99-6d1776526e19",
+    "accession": "INPA07",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Enterolobium schomburgkii (Benth.) Benth.",
+    "vernacularName": "",
+    "latitude": -3.094769,
+    "longitude": -59.988326
+  },
+  {
+    "id": "998d7aa3-1924-47a4-a018-a69cafc14a54",
+    "accession": "GR475",
+    "familyName": "Araliaceae",
+    "calcFullName": "Didymopanax morototoni (Aubl.) Decne. & Planch.",
+    "vernacularName": "morototó",
+    "latitude": -3.09676,
+    "longitude": -59.98616833
+  },
+  {
+    "id": "999dd66d-d355-449e-ae18-fbb3527298ba",
+    "accession": "GR054",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron renauxii Reitz",
+    "vernacularName": "",
+    "latitude": -3.095373,
+    "longitude": -59.987076
+  },
+  {
+    "id": "9a577423-d8d2-41bf-b694-80945830e5e8",
+    "accession": "GR326",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba",
+    "vernacularName": "coccoloba",
+    "latitude": -3.097395,
+    "longitude": -59.98743
+  },
+  {
+    "id": "9a702273-b149-4942-846f-0e9069c47cf0",
+    "accession": "GR117",
+    "familyName": "Cochlospermaceae",
+    "calcFullName": "Cochlospermum orinocense (Kunth) Steud.",
+    "vernacularName": "algodão-bravo",
+    "latitude": -3.099522,
+    "longitude": -59.9847
+  },
+  {
+    "id": "9a78dba3-4a78-460b-9955-c8ab11cd2b9d",
+    "accession": "GR148",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.097826,
+    "longitude": -59.985235
+  },
+  {
+    "id": "9ac5193f-7409-4bb3-8b51-2f6012333c3f",
+    "accession": "CD119",
+    "familyName": "Menispermaceae",
+    "calcFullName": "Abuta grandifolia (Mart.) Sandwith",
+    "vernacularName": "",
+    "latitude": -3.095084,
+    "longitude": -59.988118
+  },
+  {
+    "id": "9afcfb4c-7801-43df-994f-4ca69380e27b",
+    "accession": "GR246",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona insignis R.E.Fr.",
+    "vernacularName": "envira-bobó",
+    "latitude": -3.0969,
+    "longitude": -59.98666833
+  },
+  {
+    "id": "9b46829d-0c75-49f9-9888-6a92371fc19f",
+    "accession": "GR143",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.096034,
+    "longitude": -59.986739
+  },
+  {
+    "id": "9c2d72a1-49f7-43c7-a90c-4674c589427e",
+    "accession": "GR457",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Aspidosperma",
+    "vernacularName": "",
+    "latitude": -3.09822167,
+    "longitude": -59.98586333
+  },
+  {
+    "id": "9cb4d01d-27cf-40b5-93f7-97bdaa2788ae",
+    "accession": "GR284",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.09722167,
+    "longitude": -59.98666
+  },
+  {
+    "id": "9d58be22-b406-4cf4-b9d7-3af48085c8d6",
+    "accession": "CD018",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.096082,
+    "longitude": -59.986825
+  },
+  {
+    "id": "9dd7dd0b-66c1-4922-858d-cceeda7ef568",
+    "accession": "GR135",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Manilkara zapota (L.) P.Royen",
+    "vernacularName": "",
+    "latitude": -3.098369,
+    "longitude": -59.984541
+  },
+  {
+    "id": "9eed36d5-4c1a-49a3-a7d0-027b0791b114",
+    "accession": "GR073",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.096434,
+    "longitude": -59.987805
+  },
+  {
+    "id": "9f24c526-33b1-4ee3-8495-a0790c41e31f",
+    "accession": "GR020",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.096156,
+    "longitude": -59.986696
+  },
+  {
+    "id": "9f42a06a-1239-420c-846e-28a9fe2ed101",
+    "accession": "CD099",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095764,
+    "longitude": -59.98837
+  },
+  {
+    "id": "9f74b319-d721-4f0e-8733-c35a7b2221b7",
+    "accession": "GR057",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Borojoa sorbilis (Ducke) Cuatrec.",
+    "vernacularName": "",
+    "latitude": -3.095898,
+    "longitude": -59.986782
+  },
+  {
+    "id": "a00217a4-d1a9-4df8-b4ea-f97bab0cc632",
+    "accession": "GR04A",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.096718,
+    "longitude": -59.986613
+  },
+  {
+    "id": "a0979e2b-8139-4ad3-8b68-e783340cc43b",
+    "accession": "GR040",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.09546,
+    "longitude": -59.987112
+  },
+  {
+    "id": "a1369b20-7cd1-443b-826e-803d1ce0f732",
+    "accession": "CD07",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Mangifera indica L.",
+    "vernacularName": "",
+    "latitude": -3.094353,
+    "longitude": -59.989334
+  },
+  {
+    "id": "a13c19b2-9bb7-4e0b-812c-88ac9144efc3",
+    "accession": "GR493",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.095163,
+    "longitude": -59.986934
+  },
+  {
+    "id": "a1458f53-e17a-4cda-89cd-785b36109b10",
+    "accession": "GR173",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola pavonis (A.DC.) A.C.Sm.",
+    "vernacularName": "ucuúba-branca-do-baxio",
+    "latitude": -3.0968045,
+    "longitude": -59.9865679
+  },
+  {
+    "id": "a1d7f880-718c-4278-a7ae-e47b3c7d9d8c",
+    "accession": "GR033B",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia patrisii Vahl",
+    "vernacularName": "",
+    "latitude": -3.099113,
+    "longitude": -59.984663
+  },
+  {
+    "id": "a1d97ca1-bf16-4464-b96d-312cc895277b",
+    "accession": "LC003",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09799324,
+    "longitude": -59.98588316
+  },
+  {
+    "id": "a21171ce-c51c-48c4-b8bd-9546e61d4ea6",
+    "accession": "GR299",
+    "familyName": "Simaroubaceae",
+    "calcFullName": "Simarouba amara Aubl.",
+    "vernacularName": "marupá",
+    "latitude": -3.097235,
+    "longitude": -59.98629
+  },
+  {
+    "id": "a2bd21b8-e05f-4822-aa80-702fa0b9ba0e",
+    "accession": "GR324",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09726167,
+    "longitude": -59.98731
+  },
+  {
+    "id": "a39f9546-660c-4598-a0dd-acda73719d36",
+    "accession": "CD162",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.094591,
+    "longitude": -59.987699
+  },
+  {
+    "id": "a4b7863a-b6c0-4d42-b963-1125d4b96e6d",
+    "accession": "GR09",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Caesalpinia ferrea Mart.",
+    "vernacularName": "",
+    "latitude": -3.096392,
+    "longitude": -59.986628
+  },
+  {
+    "id": "a580b989-12fa-4d49-903d-ed29ef5b43de",
+    "accession": "GR330",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Micropholis guyanensis (A.DC.) Pierre",
+    "vernacularName": "rosadinha",
+    "latitude": -3.09750167,
+    "longitude": -59.987655
+  },
+  {
+    "id": "a5b8731e-480d-4392-a067-3cd4d9aaec25",
+    "accession": "CD251",
+    "familyName": "Annonaceae",
+    "calcFullName": "Guatteria procera R.E.Fr.",
+    "vernacularName": "",
+    "latitude": -3.09619,
+    "longitude": -59.986668
+  },
+  {
+    "id": "a63d1183-06f6-4734-8000-bda6513024ff",
+    "accession": "GR328",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.09744667,
+    "longitude": -59.98749333
+  },
+  {
+    "id": "a669cff6-af25-457a-8cef-935ba197f8bc",
+    "accession": "GR322",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Licania",
+    "vernacularName": "",
+    "latitude": -3.09733667,
+    "longitude": -59.987205
+  },
+  {
+    "id": "a6a40a16-a451-4735-9761-7043e5829396",
+    "accession": "GR240",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.09708333,
+    "longitude": -59.98660167
+  },
+  {
+    "id": "a6ecebca-6d01-4c00-8975-5cdd641f0b96",
+    "accession": "GR082",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel",
+    "vernacularName": "",
+    "latitude": -3.095088,
+    "longitude": -59.987637
+  },
+  {
+    "id": "a72e4409-9877-4a67-a157-8936bf669540",
+    "accession": "GR214",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.09666,
+    "longitude": -59.98653167
+  },
+  {
+    "id": "a77c48a4-6185-4a1e-a136-e4a741d54285",
+    "accession": "GR430",
+    "familyName": "Arecaceae",
+    "calcFullName": "Syagrus inajai (Spruce) Becc.",
+    "vernacularName": "pupunha-de-porco",
+    "latitude": -3.09804167,
+    "longitude": -59.98504333
+  },
+  {
+    "id": "a8a53a0c-7137-473d-aeb8-4cd794a5723c",
+    "accession": "GR124",
+    "familyName": "Cactaceae",
+    "calcFullName": "Selenicereus wittii (Schum.) Rowlee",
+    "vernacularName": "",
+    "latitude": -3.095355,
+    "longitude": -59.987244
+  },
+  {
+    "id": "a8f26215-a27a-45fe-8a8a-b147f008febf",
+    "accession": "CD047",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma cacao L.",
+    "vernacularName": "cacau-verdadeira",
+    "latitude": -3.094339,
+    "longitude": -59.988277
+  },
+  {
+    "id": "a922d15b-ddf6-48e3-8d57-8fc7f5bdfdca",
+    "accession": "CD08",
+    "familyName": "Arecaceae",
+    "calcFullName": "Elaeis oleifera (Kunth) Cortés",
+    "vernacularName": "",
+    "latitude": -3.095019,
+    "longitude": -59.987607
+  },
+  {
+    "id": "a958f70d-89df-4d78-8850-77fa1e81fcd1",
+    "accession": "GR105",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Centrosema",
+    "vernacularName": "",
+    "latitude": -3.09878,
+    "longitude": -59.986973
+  },
+  {
+    "id": "ab059a2b-f742-472c-be0b-c5c71c5d1855",
+    "accession": "CD160",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia",
+    "vernacularName": "",
+    "latitude": -3.095154,
+    "longitude": -59.986888
+  },
+  {
+    "id": "ab78a135-3c80-4b15-930f-5cfabaafc1be",
+    "accession": "ND421",
+    "familyName": "Lauraceae",
+    "calcFullName": "Persea americana Mill.",
+    "vernacularName": "acabateiro",
+    "latitude": -3.097416,
+    "longitude": -59.986487
+  },
+  {
+    "id": "ab996fe5-3f10-4cf9-8c6c-a877b539b4b7",
+    "accession": "GR099",
+    "familyName": "Acanthaceae",
+    "calcFullName": "Justicia calycina (Nees) V.A.W.Graham",
+    "vernacularName": "",
+    "latitude": -3.095539,
+    "longitude": -59.986682
+  },
+  {
+    "id": "abdb3c5c-5866-4ce8-a3b5-d36c28a04c25",
+    "accession": "CD101",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.094833,
+    "longitude": -59.987691
+  },
+  {
+    "id": "abdeda7d-afa1-47d5-ae6b-93d64e75d512",
+    "accession": "CD159",
+    "familyName": "Burseraceae",
+    "calcFullName": "Trattinnickia",
+    "vernacularName": "",
+    "latitude": -3.095379,
+    "longitude": -59.986327
+  },
+  {
+    "id": "abee51bc-5435-48ab-a3c4-735b0905a152",
+    "accession": "CD287",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium",
+    "vernacularName": "",
+    "latitude": -3.096798,
+    "longitude": -59.987074
+  },
+  {
+    "id": "ac262365-f3fd-4847-b556-acf4c6b20192",
+    "accession": "CD075",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus heterophyllus Lam.",
+    "vernacularName": "",
+    "latitude": -3.094591,
+    "longitude": -59.988851
+  },
+  {
+    "id": "ac3ac1ce-8a13-4e7a-8df9-06ba170b00e6",
+    "accession": "CD019",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium jarana (Huber) Ducke",
+    "vernacularName": "",
+    "latitude": -3.094772,
+    "longitude": -59.988405
+  },
+  {
+    "id": "acd17838-69e5-4974-8974-fc4e5838679e",
+    "accession": "GR258",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.0969273,
+    "longitude": -59.9867426
+  },
+  {
+    "id": "ad179c79-f8e8-4f25-a39d-5febd2023795",
+    "accession": "GR329",
+    "familyName": "Burseraceae",
+    "calcFullName": "Trattinnickia",
+    "vernacularName": "",
+    "latitude": -3.097398,
+    "longitude": -59.987593
+  },
+  {
+    "id": "ad5b0e4e-34c9-433e-82fc-b9c6dd5ef0d4",
+    "accession": "GR128",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.097124,
+    "longitude": -59.987272
+  },
+  {
+    "id": "ada1e03f-e920-4262-b3cb-7c1e152bab32",
+    "accession": "GR281",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.09729333,
+    "longitude": -59.98658333
+  },
+  {
+    "id": "ae0875c6-3474-4209-9301-eb4a52be1c2e",
+    "accession": "CD140",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Paullinia cupana var. sorbilis (Mart.) Ducke",
+    "vernacularName": "",
+    "latitude": -3.095269,
+    "longitude": -59.987681
+  },
+  {
+    "id": "aec2eec3-a1a1-4139-8c0d-f5985abfdf2c",
+    "accession": "GR425",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.09827167,
+    "longitude": -59.98461
+  },
+  {
+    "id": "aeec95f4-49d4-4e55-9f2a-1e9d09b9966a",
+    "accession": "GR468",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Zygia racemosa (Ducke) Barneby & J.W.Grimes",
+    "vernacularName": "angelim-rajado",
+    "latitude": -3.09724833,
+    "longitude": -59.98561167
+  },
+  {
+    "id": "af258fad-ccf5-46ec-87e7-ea972cbe3e63",
+    "accession": "GR032",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.095177,
+    "longitude": -59.986921
+  },
+  {
+    "id": "af2eef45-6b92-4e2d-ab3a-c2978246435b",
+    "accession": "GR014",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron solimoesense A.C.Sm.",
+    "vernacularName": "",
+    "latitude": -3.095276,
+    "longitude": -59.987662
+  },
+  {
+    "id": "afe4090e-cd0f-4cd6-9bc4-7dfaca2d85ba",
+    "accession": "GR446",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09764,
+    "longitude": -59.98550833
+  },
+  {
+    "id": "aff8911c-365b-480d-a9cc-1b23b6856520",
+    "accession": "GR288",
+    "familyName": "Lythraceae",
+    "calcFullName": "Physocalymma scaberrimum Pohl",
+    "vernacularName": "pau-de-rosas",
+    "latitude": -3.09717667,
+    "longitude": -59.98661667
+  },
+  {
+    "id": "b05387cf-0ac3-492d-807f-aa5d36995fac",
+    "accession": "GR319",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera wachenheimii (Benoist) Sandwith",
+    "vernacularName": "mat´-matá",
+    "latitude": -3.09707667,
+    "longitude": -59.98708667
+  },
+  {
+    "id": "b12eb829-5163-4e9d-99e5-1ef52ee44b7e",
+    "accession": "GR106",
+    "familyName": "Moraceae",
+    "calcFullName": "Ficus citrifolia Mill.",
+    "vernacularName": "",
+    "latitude": -3.099252,
+    "longitude": -59.98466
+  },
+  {
+    "id": "b1a94140-9594-4573-90bc-265bb719d397",
+    "accession": "LC001",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09539247,
+    "longitude": -59.9868821
+  },
+  {
+    "id": "b22a8b20-04d8-4d72-b0d8-5c4e7acf07b3",
+    "accession": "ND393",
+    "familyName": "Simaroubaceae",
+    "calcFullName": "Simarouba amara Aubl.",
+    "vernacularName": "marupá",
+    "latitude": -3.097136,
+    "longitude": -59.986107
+  },
+  {
+    "id": "b2710955-352c-44db-a9c7-e343ed1033d8",
+    "accession": "GR118",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga marginata Willd.",
+    "vernacularName": "",
+    "latitude": -3.09607,
+    "longitude": -59.987802
+  },
+  {
+    "id": "b27c2c8a-0e9f-44ba-bce3-6242baa91957",
+    "accession": "GR413",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Dipteryx odorata (Aubl.) Forsyth f.",
+    "vernacularName": "cumaru-verdadeiro",
+    "latitude": -3.09918667,
+    "longitude": -59.98490333
+  },
+  {
+    "id": "b34fe044-a1de-4040-b218-cd2dca1fac1b",
+    "accession": "CD216",
+    "familyName": "Arecaceae",
+    "calcFullName": "Bactris",
+    "vernacularName": "",
+    "latitude": -3.095319,
+    "longitude": -59.987791
+  },
+  {
+    "id": "b3655754-1f8a-41c6-8ec8-e0654fee7113",
+    "accession": "GR067",
+    "familyName": "Oxalidaceae",
+    "calcFullName": "Averrhoa carambola L.",
+    "vernacularName": "",
+    "latitude": -3.097069,
+    "longitude": -59.987868
+  },
+  {
+    "id": "b3908f1f-7fda-4fad-8387-7c57f4d4b5a6",
+    "accession": "GR08",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Morinda citrifolia L.",
+    "vernacularName": "",
+    "latitude": -3.09748,
+    "longitude": -59.986523
+  },
+  {
+    "id": "b3961750-0f07-4028-aae2-004962476fd5",
+    "accession": "ND281",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel",
+    "vernacularName": "",
+    "latitude": -3.09696,
+    "longitude": -59.986595
+  },
+  {
+    "id": "b48bf2a5-f5ae-4323-9a3f-76134cef965d",
+    "accession": "GR499",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.095299,
+    "longitude": -59.986787
+  },
+  {
+    "id": "b54e8e1a-997f-4108-8b0b-f3bb132741dd",
+    "accession": "GR151",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.096167,
+    "longitude": -59.988566
+  },
+  {
+    "id": "b57e8615-e928-4cc8-989c-160371147a26",
+    "accession": "GR412",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.099165,
+    "longitude": -59.98482
+  },
+  {
+    "id": "b5bacbbb-46cd-4d70-b7a6-614a42ecd9a9",
+    "accession": "GR350",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.096799,
+    "longitude": -59.987542
+  },
+  {
+    "id": "b5c5d3e5-af9c-42f9-9456-d589b8639748",
+    "accession": "GR082",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel",
+    "vernacularName": "",
+    "latitude": -3.095507,
+    "longitude": -59.986425
+  },
+  {
+    "id": "b67b7c8b-22d8-4bf3-9055-470d370b8ae8",
+    "accession": "CD279",
+    "familyName": "Simaroubaceae",
+    "calcFullName": "Simarouba",
+    "vernacularName": "",
+    "latitude": -3.096913,
+    "longitude": -59.987973
+  },
+  {
+    "id": "b6d37a28-4060-4da0-b728-9696b11687fc",
+    "accession": "GR130",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.096814,
+    "longitude": -59.98763
+  },
+  {
+    "id": "b7a806af-7871-4277-bb4a-701835a75106",
+    "accession": "GR262",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.097049,
+    "longitude": -59.98679
+  },
+  {
+    "id": "b7ad514a-3a0c-468b-a06b-cae9d502fe53",
+    "accession": "GR448",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga alba (Sw.) Willd.",
+    "vernacularName": "ingá-branca",
+    "latitude": -3.09773333,
+    "longitude": -59.98547667
+  },
+  {
+    "id": "b7b5d1a3-4f02-4c4c-876d-5c3ef69cb684",
+    "accession": "GR298",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Acioa longipendula (Pilg.) Sothers & Prance",
+    "vernacularName": "castanha-de-galinha",
+    "latitude": -3.097295,
+    "longitude": -59.98631333
+  },
+  {
+    "id": "b8aa868a-ebed-401a-a7cb-6b64901f74e6",
+    "accession": "CD202",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Lacmellea gracilis (Müll.Arg.) Markgr.",
+    "vernacularName": "",
+    "latitude": -3.095695,
+    "longitude": -59.98871
+  },
+  {
+    "id": "b93143ec-dd92-4944-8f94-6540f4f16229",
+    "accession": "CD045",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.094231,
+    "longitude": -59.988095
+  },
+  {
+    "id": "ba033778-b0df-43a8-8ea7-345c4a290281",
+    "accession": "GR433",
+    "familyName": "Melastomataceae",
+    "calcFullName": "Miconia poeppigii Triana",
+    "vernacularName": "",
+    "latitude": -3.09793167,
+    "longitude": -59.985295
+  },
+  {
+    "id": "ba7556dc-a556-4d6c-831f-15c02ba3c7be",
+    "accession": "CD071",
+    "familyName": "Calophyllaceae",
+    "calcFullName": "Calophyllum brasiliense Cambess.",
+    "vernacularName": "",
+    "latitude": -3.094466,
+    "longitude": -59.989592
+  },
+  {
+    "id": "ba885ef3-8d37-4a17-858b-ecf76110fdd2",
+    "accession": "CD302",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Manilkara zapota (L.) P.Royen",
+    "vernacularName": "",
+    "latitude": -3.097237,
+    "longitude": -59.986726
+  },
+  {
+    "id": "ba8ca4f9-631c-422b-83bb-9a61dd4ec338",
+    "accession": "PLANT005",
+    "familyName": "Indet.",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09566833,
+    "longitude": -59.98638833
+  },
+  {
+    "id": "badd25d1-e3dd-4b5a-91b6-83a67540a55f",
+    "accession": "CD219",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.095326,
+    "longitude": -59.987778
+  },
+  {
+    "id": "bb3f6a4e-b6ed-45e9-8f14-aa9c1f880853",
+    "accession": "ND322",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Paullinia cupana var. sorbilis (Mart.) Ducke",
+    "vernacularName": "",
+    "latitude": -3.096811,
+    "longitude": -59.986787
+  },
+  {
+    "id": "bb78cbdb-d499-4842-b78f-e5ac6c9418f7",
+    "accession": "GR080",
+    "familyName": "Lauraceae",
+    "calcFullName": "Ocotea guianensis Aubl.",
+    "vernacularName": "",
+    "latitude": -3.094943,
+    "longitude": -59.987369
+  },
+  {
+    "id": "bb811f39-1ce3-440a-b8aa-016f52035b8f",
+    "accession": "CD147",
+    "familyName": "Melastomataceae",
+    "calcFullName": "Bellucia imperialis Saldanha & Cogn.",
+    "vernacularName": "",
+    "latitude": -3.094893,
+    "longitude": -59.986698
+  },
+  {
+    "id": "bd021697-f0e9-4232-b331-ce1c3cee2b2b",
+    "accession": "GR179",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium rhoifolium (Benth.) Byng & Christenh.",
+    "vernacularName": "breu-branco",
+    "latitude": -3.09679833,
+    "longitude": -59.98645333
+  },
+  {
+    "id": "bd45ea9f-2c19-4e1f-ba2a-5910bf0a9102",
+    "accession": "GR216",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria amazonum Mart. ex Benth.",
+    "vernacularName": "paliteira",
+    "latitude": -3.09663167,
+    "longitude": -59.98653333
+  },
+  {
+    "id": "be113858-66d8-4dcb-abe6-8dd2c8e59cd6",
+    "accession": "GR108",
+    "familyName": "Arecaceae",
+    "calcFullName": "Bactris gasipaes Kunth",
+    "vernacularName": "pupunha",
+    "latitude": -3.096359,
+    "longitude": -59.988048
+  },
+  {
+    "id": "be2154a3-8dbf-4aca-bbc1-cfe206948633",
+    "accession": "GR111",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.095839,
+    "longitude": -59.986704
+  },
+  {
+    "id": "be2c2b10-8f55-4cd1-8cef-6b1edfebaf27",
+    "accession": "CD194",
+    "familyName": "Arecaceae",
+    "calcFullName": "Elaeis guineensis Jacq.",
+    "vernacularName": "",
+    "latitude": -3.095298,
+    "longitude": -59.987036
+  },
+  {
+    "id": "be2c9401-5eed-42ad-bd94-98dad8c64feb",
+    "accession": "GR315",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Jacaranda copaia (Aubl.) D.Don",
+    "vernacularName": "pará-pará",
+    "latitude": -3.0969887,
+    "longitude": -59.9869155
+  },
+  {
+    "id": "bea9b32a-1178-4f58-8fe3-dd2c8f0a7b11",
+    "accession": "GR091",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.095274,
+    "longitude": -59.987386
+  },
+  {
+    "id": "bfff310d-c6ff-41be-8606-2cb8a3865b42",
+    "accession": "ND225",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Dipteryx odorata (Aubl.) Forsyth f.",
+    "vernacularName": "cumaru-verdadeiro",
+    "latitude": -3.096897,
+    "longitude": -59.986551
+  },
+  {
+    "id": "c00eb50e-02b2-47a6-9c92-8d1c8c73283e",
+    "accession": "CD011",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.095901,
+    "longitude": -59.988287
+  },
+  {
+    "id": "c051a5b7-c028-441e-958c-b98af6686a4c",
+    "accession": "GR064",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Dipteryx odorata (Aubl.) Forsyth f.",
+    "vernacularName": "cumaru-verdadeiro",
+    "latitude": -3.09454,
+    "longitude": -59.987063
+  },
+  {
+    "id": "c075e486-ccd3-48e4-8f1c-e9640844d748",
+    "accession": "GR209",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.09667333,
+    "longitude": -59.986535
+  },
+  {
+    "id": "c0aa44ad-cc8e-4a00-84eb-c77434de8b5a",
+    "accession": "PLANT010",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09561812,
+    "longitude": -59.98660382
+  },
+  {
+    "id": "c10435f8-e43a-4df4-aa31-7176dde7e544",
+    "accession": "ND073",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.096862,
+    "longitude": -59.987166
+  },
+  {
+    "id": "c1468114-675d-4000-bf72-66df69a3ab3c",
+    "accession": "GR061",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Anacardium occidentale L.",
+    "vernacularName": "cajueiro",
+    "latitude": -3.099307,
+    "longitude": -59.984722
+  },
+  {
+    "id": "c1cade53-f871-41d2-be0e-0d697a469d90",
+    "accession": "ND150",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus bacaba Mart.",
+    "vernacularName": "bacaba",
+    "latitude": -3.096202,
+    "longitude": -59.986701
+  },
+  {
+    "id": "c23d5b18-1551-4fcb-9799-fa84635c509b",
+    "accession": "GR183",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola pavonis (A.DC.) A.C.Sm.",
+    "vernacularName": "ucuúba-branca-do-baxio",
+    "latitude": -3.09701333,
+    "longitude": -59.98653167
+  },
+  {
+    "id": "c2dcb9db-2688-4fca-8389-abe391b9b8bc",
+    "accession": "CD099",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095863,
+    "longitude": -59.988177
+  },
+  {
+    "id": "c357a7fe-e60a-4559-a51c-28fb54fb0e51",
+    "accession": "GR198",
+    "familyName": "Myristicaceae",
+    "calcFullName": "Virola pavonis (A.DC.) A.C.Sm.",
+    "vernacularName": "ucuúba-branca-do-baxio",
+    "latitude": -3.09673833,
+    "longitude": -59.986595
+  },
+  {
+    "id": "c398abc8-ac8e-4b72-95d5-7b4cf57a235c",
+    "accession": "GR434",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.09783167,
+    "longitude": -59.98526667
+  },
+  {
+    "id": "c4369fe0-2498-467a-9498-ead80f612d8b",
+    "accession": "GR098",
+    "familyName": "Achariaceae",
+    "calcFullName": "Lindackeria paludosa (Benth.) Gilg",
+    "vernacularName": "",
+    "latitude": -3.095725,
+    "longitude": -59.986713
+  },
+  {
+    "id": "c451ff17-ee98-4dd6-a2f5-adfa455a89ef",
+    "accession": "GR171",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis",
+    "vernacularName": "inhará",
+    "latitude": -3.09678167,
+    "longitude": -59.98655
+  },
+  {
+    "id": "c48df486-2d74-417e-a9b9-558e80cca3b1",
+    "accession": "GR092",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea attaleoides (Barb.Rodr.) Wess.Boer",
+    "vernacularName": "",
+    "latitude": -3.095163,
+    "longitude": -59.986991
+  },
+  {
+    "id": "c4a958a1-a306-43d1-a692-0fb584fb1808",
+    "accession": "GR072",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus altilis (Parkinson) F.R.Fosbert",
+    "vernacularName": "",
+    "latitude": -3.095377,
+    "longitude": -59.988931
+  },
+  {
+    "id": "c50dc40f-6836-4969-a2d3-68806b24d237",
+    "accession": "GR416",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.09896833,
+    "longitude": -59.98484167
+  },
+  {
+    "id": "c50ffc90-87d5-466d-afeb-5581c79a0d84",
+    "accession": "GR030",
+    "familyName": "Urticaceae",
+    "calcFullName": "Cecropia leucocoma Miq.",
+    "vernacularName": "",
+    "latitude": -3.094503,
+    "longitude": -59.986943
+  },
+  {
+    "id": "c555fab5-8d8e-4175-b517-fd6ec1b871c9",
+    "accession": "GR113",
+    "familyName": "Malvaceae",
+    "calcFullName": "Pseudobombax",
+    "vernacularName": "",
+    "latitude": -3.096365,
+    "longitude": -59.98564
+  },
+  {
+    "id": "c558bb9c-c15b-438c-9309-9080c1beecdf",
+    "accession": "GR104",
+    "familyName": "Malvaceae",
+    "calcFullName": "Quararibea cordata (Bonpl.) Visher",
+    "vernacularName": "",
+    "latitude": -3.100001,
+    "longitude": -59.984835
+  },
+  {
+    "id": "c5cba899-cc85-4d50-8760-ab778c949503",
+    "accession": "CD094",
+    "familyName": "Siparunaceae",
+    "calcFullName": "Siparuna guianensis Aubl.",
+    "vernacularName": "capitiú",
+    "latitude": -3.094067,
+    "longitude": -59.988723
+  },
+  {
+    "id": "c6b360dd-9bfd-40f6-8394-d561d632ff3b",
+    "accession": "GR255",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis scabra (J.F.Macbr.) C.C.Berg",
+    "vernacularName": "inharé",
+    "latitude": -3.09672333,
+    "longitude": -59.98672333
+  },
+  {
+    "id": "c6d84698-e08f-4089-83a1-d567611be4fa",
+    "accession": "GR016",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron distantilobum K.Krause",
+    "vernacularName": "",
+    "latitude": -3.096827,
+    "longitude": -59.986748
+  },
+  {
+    "id": "c7074aba-0f49-43dd-88f1-a5ddf14a3e26",
+    "accession": "GR065",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium stevensonii (Standl.) Daly",
+    "vernacularName": "",
+    "latitude": -3.096719,
+    "longitude": -59.985944
+  },
+  {
+    "id": "c72b66d2-258a-4611-bdad-aa68666ad092",
+    "accession": "ND300",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.096935,
+    "longitude": -59.986789
+  },
+  {
+    "id": "c79e9afa-3355-4d86-a596-68b74c6a4f36",
+    "accession": "CD019",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium jarana (Huber) Ducke",
+    "vernacularName": "",
+    "latitude": -3.097256,
+    "longitude": -59.987908
+  },
+  {
+    "id": "c7b69990-6947-421d-97c4-1e9fad7f963e",
+    "accession": "GR465",
+    "familyName": "Annonaceae",
+    "calcFullName": "Bocageopsis multiflora (Mart.) R.E.Fr.",
+    "vernacularName": "envira-preta",
+    "latitude": -3.09741167,
+    "longitude": -59.98554333
+  },
+  {
+    "id": "c7ccd08d-3d84-4602-b5fa-0584136de364",
+    "accession": "CD099",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095259,
+    "longitude": -59.987677
+  },
+  {
+    "id": "c7d9aae0-f20f-4070-9cf1-5968428d252c",
+    "accession": "GR447",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.097735,
+    "longitude": -59.9855217
+  },
+  {
+    "id": "c86406fb-0b6f-4a5c-adf7-bb5dfd0678cf",
+    "accession": "CD243",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium unifoliolatum Engl.",
+    "vernacularName": "",
+    "latitude": -3.09541,
+    "longitude": -59.986802
+  },
+  {
+    "id": "c90be674-b753-4390-b641-1553dece67b4",
+    "accession": "GR031",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.094505,
+    "longitude": -59.986973
+  },
+  {
+    "id": "c9d73ae2-94ad-4d11-937c-788388438581",
+    "accession": "GR205",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Swartzia panacoco (Aubl.) R.S.Cowan",
+    "vernacularName": "coração-do-negro",
+    "latitude": -3.09681,
+    "longitude": -59.98647333
+  },
+  {
+    "id": "cadb930a-b346-4797-b8e6-a8c3e593b727",
+    "accession": "CD140",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Paullinia cupana var. sorbilis (Mart.) Ducke",
+    "vernacularName": "",
+    "latitude": -3.095193,
+    "longitude": -59.987259
+  },
+  {
+    "id": "cb35f0ac-0df7-40c4-83b4-29fb38892eca",
+    "accession": "CD044",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium",
+    "vernacularName": "",
+    "latitude": -3.09686,
+    "longitude": -59.987948
+  },
+  {
+    "id": "cb50f713-e922-4dde-8d7c-13c281a20390",
+    "accession": "GR013",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron",
+    "vernacularName": "",
+    "latitude": -3.09564,
+    "longitude": -59.987091
+  },
+  {
+    "id": "cb96a024-06a5-431f-8c61-348e27362296",
+    "accession": "GR438",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona mucosa Jacq.",
+    "vernacularName": "biribá",
+    "latitude": -3.09774167,
+    "longitude": -59.98529667
+  },
+  {
+    "id": "cba865d7-2bbf-42ac-805b-f05d3dee3227",
+    "accession": "CD305",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Andira",
+    "vernacularName": "sucupira",
+    "latitude": -3.095161,
+    "longitude": -59.986804
+  },
+  {
+    "id": "cc6b13a7-0e8f-43df-8a2f-28a621be1b45",
+    "accession": "GR020",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.095479,
+    "longitude": -59.986541
+  },
+  {
+    "id": "cc7eae9b-a198-47c7-b908-746a1fce9f23",
+    "accession": "GR039",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus heterophyllus Lam.",
+    "vernacularName": "",
+    "latitude": -3.095655,
+    "longitude": -59.98887
+  },
+  {
+    "id": "ccbe9eae-469b-4823-a13b-bd49b4f4420d",
+    "accession": "CD315",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Eperua",
+    "vernacularName": "",
+    "latitude": -3.095153,
+    "longitude": -59.987116
+  },
+  {
+    "id": "ce11f331-4cbf-4cdf-850d-bb02107e6d41",
+    "accession": "GR094",
+    "familyName": "Acanthaceae",
+    "calcFullName": "Sanchezia parvibracteata Sprague & Hutch.",
+    "vernacularName": "",
+    "latitude": -3.095769,
+    "longitude": -59.986899
+  },
+  {
+    "id": "cebbcaed-2570-44e0-84b0-50e1929f2d4d",
+    "accession": "ND327",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.09713,
+    "longitude": -59.986748
+  },
+  {
+    "id": "cefe262a-7e32-4e0b-9faf-7ca6a69dc270",
+    "accession": "GR147",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Bertholletia excelsa Bonpl.",
+    "vernacularName": "castanheira-do-Brasil",
+    "latitude": -3.095737,
+    "longitude": -59.98779
+  },
+  {
+    "id": "ceff7c1d-de92-4a9b-b85b-43e765f49ed8",
+    "accession": "CD211",
+    "familyName": "Quiinaceae",
+    "calcFullName": "Lacunaria jenmanii (Oliv.) Ducke",
+    "vernacularName": "moela-de-mutum",
+    "latitude": -3.095311,
+    "longitude": -59.986759
+  },
+  {
+    "id": "cf09dd24-b27d-4f5e-8281-73f354a69c02",
+    "accession": "CD194",
+    "familyName": "Arecaceae",
+    "calcFullName": "Elaeis guineensis Jacq.",
+    "vernacularName": "",
+    "latitude": -3.095286,
+    "longitude": -59.986855
+  },
+  {
+    "id": "cf1c8a12-75c7-4b33-83cf-5a69ce81037a",
+    "accession": "LC001",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09666948,
+    "longitude": -59.98691101
+  },
+  {
+    "id": "cf8f90ad-480d-4857-83ce-51ea1c7b1720",
+    "accession": "GR499",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.095295,
+    "longitude": -59.986774
+  },
+  {
+    "id": "cf9ed3e8-d1e9-4af1-aaf9-278beb7c3cd4",
+    "accession": "GR452",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Andira",
+    "vernacularName": "sucupira",
+    "latitude": -3.09804333,
+    "longitude": -59.98570667
+  },
+  {
+    "id": "d0432937-e1ae-4541-9968-088191d1e943",
+    "accession": "GR230",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma cacao L.",
+    "vernacularName": "cacau-verdadeira",
+    "latitude": -3.096925,
+    "longitude": -59.98643833
+  },
+  {
+    "id": "d05e9d1e-ae68-4af1-bdd1-cafa1029efab",
+    "accession": "CD202",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Lacmellea gracilis (Müll.Arg.) Markgr.",
+    "vernacularName": "",
+    "latitude": -3.095025,
+    "longitude": -59.988117
+  },
+  {
+    "id": "d1a6e447-c641-4639-bdc9-8c33d46ca75c",
+    "accession": "GR244",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.097195,
+    "longitude": -59.98697667
+  },
+  {
+    "id": "d1ead63e-91ec-4abf-8cb4-2fcac2294897",
+    "accession": "GR098",
+    "familyName": "Achariaceae",
+    "calcFullName": "Lindackeria paludosa (Benth.) Gilg",
+    "vernacularName": "",
+    "latitude": -3.095739,
+    "longitude": -59.986906
+  },
+  {
+    "id": "d207c01c-fa44-4baa-97a9-ea73395fab7b",
+    "accession": "GR241",
+    "familyName": "Goupiaceae",
+    "calcFullName": "Goupia glabra Aubl.",
+    "vernacularName": "cupiúba",
+    "latitude": -3.09695167,
+    "longitude": -59.98663167
+  },
+  {
+    "id": "d21d0d80-426a-4009-ad35-e18e02685dcc",
+    "accession": "ND272",
+    "familyName": "Olacaceae",
+    "calcFullName": "Ptychopetalum olacoides Benth.",
+    "vernacularName": "",
+    "latitude": -3.09698,
+    "longitude": -59.986784
+  },
+  {
+    "id": "d25091ea-c014-4f4a-ae7f-869eb87a768d",
+    "accession": "PLANT007",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.095575,
+    "longitude": -59.98626
+  },
+  {
+    "id": "d3839188-b1d3-497b-8de4-58a9433ef509",
+    "accession": "ND070",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Pterocarpus",
+    "vernacularName": "",
+    "latitude": -3.097042,
+    "longitude": -59.987184
+  },
+  {
+    "id": "d3c725bc-db07-45dc-8c5d-8b6d67ad530c",
+    "accession": "GR215",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.09667833,
+    "longitude": -59.98649333
+  },
+  {
+    "id": "d40e706d-35e0-41d1-8290-cfcb3443cf60",
+    "accession": "CD108",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.093729,
+    "longitude": -59.988608
+  },
+  {
+    "id": "d496d4e3-3eaf-474b-9a9d-ed40d163bc8b",
+    "accession": "GR423",
+    "familyName": "Arecaceae",
+    "calcFullName": "Astrocaryum aculeatum G.Mey.",
+    "vernacularName": "tucumä",
+    "latitude": -3.09830167,
+    "longitude": -59.98485667
+  },
+  {
+    "id": "d569ba40-4fab-42e1-89e6-21322bf52dd8",
+    "accession": "GR110",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.094769,
+    "longitude": -59.988711
+  },
+  {
+    "id": "d5c88e5b-9dde-4f51-b626-591399cadcc7",
+    "accession": "GR139",
+    "familyName": "Moraceae",
+    "calcFullName": "Artocarpus altilis (Parkinson) F.R.Fosbert",
+    "vernacularName": "",
+    "latitude": -3.095717,
+    "longitude": -59.988919
+  },
+  {
+    "id": "d5ccc6cd-f28f-4f60-b044-1da4d51d35d6",
+    "accession": "GR428",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona insignis R.E.Fr.",
+    "vernacularName": "envira-bobó",
+    "latitude": -3.0981089,
+    "longitude": -59.9849498
+  },
+  {
+    "id": "d5f4bbe7-c783-4023-928d-8c542755dfad",
+    "accession": "ND303",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia cerasina (Benth.) Radlk.",
+    "vernacularName": "",
+    "latitude": -3.096992,
+    "longitude": -59.986635
+  },
+  {
+    "id": "d79663d1-1e46-45fa-952f-558d7496234e",
+    "accession": "ND412",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.097358,
+    "longitude": -59.986315
+  },
+  {
+    "id": "d7b10180-bc12-440c-b804-1286906105ab",
+    "accession": "CD073",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis zabucajo Aubl.",
+    "vernacularName": "",
+    "latitude": -3.095323,
+    "longitude": -59.987106
+  },
+  {
+    "id": "d7e88eed-56db-46e1-90d3-f575aba486e3",
+    "accession": "GR06",
+    "familyName": "Araceae",
+    "calcFullName": "Dracontium amazonense G.H.Zhu & Croat",
+    "vernacularName": "",
+    "latitude": -3.097694,
+    "longitude": -59.986609
+  },
+  {
+    "id": "d7fa3086-7971-4ff2-b1b4-73b04e793ee4",
+    "accession": "ND317",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.097025,
+    "longitude": -59.986651
+  },
+  {
+    "id": "d7fd17c2-4f32-4659-9ab9-102bb9d88b36",
+    "accession": "GR035",
+    "familyName": "Cucurbitaceae",
+    "calcFullName": "Gurania bignoniacea (Poepp. & Endl.) C.Jeffrey",
+    "vernacularName": "",
+    "latitude": -3.099375,
+    "longitude": -59.985313
+  },
+  {
+    "id": "d98da99d-ffc4-45e9-ae9f-0401fa2db79b",
+    "accession": "GR089",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.096327,
+    "longitude": -59.988355
+  },
+  {
+    "id": "d9aaac22-210d-4875-be63-5ec1cff6a75f",
+    "accession": "GR490",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.094312,
+    "longitude": -59.987695
+  },
+  {
+    "id": "d9abeb25-3ee2-4e1b-af8a-aa5061577a02",
+    "accession": "CD044",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Holopyxidium",
+    "vernacularName": "",
+    "latitude": -3.094739,
+    "longitude": -59.987836
+  },
+  {
+    "id": "d9c1087f-350d-4668-941e-1a5fdc90c8b7",
+    "accession": "GR115",
+    "familyName": "Moraceae",
+    "calcFullName": "Ficus",
+    "vernacularName": "",
+    "latitude": -3.096665,
+    "longitude": -59.986359
+  },
+  {
+    "id": "d9f2cc97-46e3-4984-a18f-bfde319c5e18",
+    "accession": "CD171",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.095139,
+    "longitude": -59.987589
+  },
+  {
+    "id": "db062832-7b55-435b-88f0-66e1a34eee3e",
+    "accession": "GR195",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Pterocarpus rohrii Vahl",
+    "vernacularName": "mututi",
+    "latitude": -3.096735,
+    "longitude": -59.98663333
+  },
+  {
+    "id": "db3011ec-c031-441a-9d3a-3557b1ff604a",
+    "accession": "CD01",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.09451,
+    "longitude": -59.989662
+  },
+  {
+    "id": "dc9b4b54-82ea-4d31-b998-73c03b184828",
+    "accession": "GR032",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.094598,
+    "longitude": -59.987194
+  },
+  {
+    "id": "dd8fab37-7f92-404b-9c77-8195866cac57",
+    "accession": "GR500",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga",
+    "vernacularName": "",
+    "latitude": -3.09509,
+    "longitude": -59.987927
+  },
+  {
+    "id": "dd992093-213e-4aee-82f2-ab98b266843d",
+    "accession": "GR312",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis",
+    "vernacularName": "jarana",
+    "latitude": -3.09702667,
+    "longitude": -59.987
+  },
+  {
+    "id": "de028ce1-cf39-4bd0-b227-32c4a0d0e4a0",
+    "accession": "ND357",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.095827,
+    "longitude": -59.988587
+  },
+  {
+    "id": "de310d5d-1d5b-4055-abd0-9249274c87f9",
+    "accession": "CD152",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Myrcia falax",
+    "vernacularName": "",
+    "latitude": -3.095457,
+    "longitude": -59.986427
+  },
+  {
+    "id": "df1de065-8f5d-4cba-9b0a-c51064fc5acd",
+    "accession": "GR498",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma sylvestre Mart.",
+    "vernacularName": "cacau-da-mata",
+    "latitude": -3.095141,
+    "longitude": -59.986961
+  },
+  {
+    "id": "df71cde4-b0c9-4d57-abdf-2da875fb7fa5",
+    "accession": "CD263",
+    "familyName": "Arecaceae",
+    "calcFullName": "Oenocarpus",
+    "vernacularName": "",
+    "latitude": -3.097017,
+    "longitude": -59.987724
+  },
+  {
+    "id": "e023d6d9-7a26-48de-8f97-76d2c828af81",
+    "accession": "GR30A",
+    "familyName": "Malvaceae",
+    "calcFullName": "Herrania",
+    "vernacularName": "",
+    "latitude": -3.099971,
+    "longitude": -59.98531
+  },
+  {
+    "id": "e0affb8a-4635-4b3a-be0c-d21392240b02",
+    "accession": "GR444",
+    "familyName": "Rutaceae",
+    "calcFullName": "Zanthoxylum huberi P.G.Waterman",
+    "vernacularName": "tamanqueira",
+    "latitude": -3.0976559,
+    "longitude": -59.9854926
+  },
+  {
+    "id": "e1120aec-5929-48f1-ac1a-ed5308162f6f",
+    "accession": "ND162",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.096368,
+    "longitude": -59.988019
+  },
+  {
+    "id": "e1125262-32e7-4002-8ae5-73848787ea59",
+    "accession": "PLANT002",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Tapirira guianensis Aubl.",
+    "vernacularName": "pau-pombo",
+    "latitude": -3.09591833,
+    "longitude": -59.98625667
+  },
+  {
+    "id": "e16eec8e-5603-41b2-a8b9-327b9896ddde",
+    "accession": "GR456",
+    "familyName": "Arecaceae",
+    "calcFullName": "Attalea maripa (Aubl.) Mart.",
+    "vernacularName": "inajá",
+    "latitude": -3.09820167,
+    "longitude": -59.98586833
+  },
+  {
+    "id": "e1877a0c-e967-4a01-9ad5-b0d3062b2983",
+    "accession": "GR310",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Dimorphandra",
+    "vernacularName": "",
+    "latitude": -3.09698667,
+    "longitude": -59.986965
+  },
+  {
+    "id": "e24e9c2a-9a17-4f81-903b-bbee45e4cdb1",
+    "accession": "CD320",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cenostigma tocantinum Ducke",
+    "vernacularName": "pau-pretinha",
+    "latitude": -3.09526,
+    "longitude": -59.986606
+  },
+  {
+    "id": "e3136ffe-cde2-4bde-983d-0955d6db0232",
+    "accession": "GR327",
+    "familyName": "Olacaceae",
+    "calcFullName": "Minquartia guianensis Aubl.",
+    "vernacularName": "acariquara",
+    "latitude": -3.097435,
+    "longitude": -59.98749667
+  },
+  {
+    "id": "e3385da0-0731-4a6d-9dce-3aa38c3c04e9",
+    "accession": "ND405",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.097338,
+    "longitude": -59.986314
+  },
+  {
+    "id": "e448fbbe-8413-4126-81c8-48f441dcf412",
+    "accession": "GR347",
+    "familyName": "Sapotaceae",
+    "calcFullName": "Pouteria macrophylla (Lam.) Eyma",
+    "vernacularName": "abiurana",
+    "latitude": -3.096932,
+    "longitude": -59.987708
+  },
+  {
+    "id": "e4b4ba55-a35d-45bb-8905-6e5f8ec9b183",
+    "accession": "CD108",
+    "familyName": "Meliaceae",
+    "calcFullName": "Cedrela odorata L.",
+    "vernacularName": "cedro",
+    "latitude": -3.094659,
+    "longitude": -59.987433
+  },
+  {
+    "id": "e4c0ebd5-5726-48fa-9c4f-c758fe78942b",
+    "accession": "GR167",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.094604,
+    "longitude": -59.989621
+  },
+  {
+    "id": "e52085c4-f524-47e0-b86f-48dd2ed637db",
+    "accession": "PLANT015",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cenostigma tocantinum Ducke",
+    "vernacularName": "pau-pretinha",
+    "latitude": -3.09527167,
+    "longitude": -59.986645
+  },
+  {
+    "id": "e529f943-2037-4a4b-b4ca-824bfbfbefeb",
+    "accession": "GR045",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona muricata L.",
+    "vernacularName": "",
+    "latitude": -3.095466,
+    "longitude": -59.989047
+  },
+  {
+    "id": "e563cbe2-f555-472e-8734-4565bf44b8da",
+    "accession": "GR161",
+    "familyName": "Annonaceae",
+    "calcFullName": "Annona",
+    "vernacularName": "",
+    "latitude": -3.096309,
+    "longitude": -59.988096
+  },
+  {
+    "id": "e583f603-a588-40d1-9b21-3ffc4e6ab044",
+    "accession": "PLANT027",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.0944688,
+    "longitude": -59.98925451
+  },
+  {
+    "id": "e5840b73-4923-4ef7-90c9-4f6081cd90ff",
+    "accession": "CD073",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Lecythis zabucajo Aubl.",
+    "vernacularName": "",
+    "latitude": -3.097513,
+    "longitude": -59.986703
+  },
+  {
+    "id": "e5a259b7-9580-41ed-85dc-4240e8483426",
+    "accession": "CD214",
+    "familyName": "Clusiaceae",
+    "calcFullName": "Clusia",
+    "vernacularName": "",
+    "latitude": -3.095184,
+    "longitude": -59.987418
+  },
+  {
+    "id": "e5c8c038-b6cf-42e2-b678-e9a5e1b66725",
+    "accession": "ND331",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.097233,
+    "longitude": -59.986852
+  },
+  {
+    "id": "e6a2333e-1d80-44c0-b8f6-8823f433c05b",
+    "accession": "GR323",
+    "familyName": "Moraceae",
+    "calcFullName": "Helicostylis tomentosa (Poepp. & Endl.) Rusby",
+    "vernacularName": "inharé",
+    "latitude": -3.09717,
+    "longitude": -59.98716667
+  },
+  {
+    "id": "e6da77e2-9603-4b63-b621-30d7adbb8268",
+    "accession": "CD309",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cynometra",
+    "vernacularName": "",
+    "latitude": -3.095462,
+    "longitude": -59.987717
+  },
+  {
+    "id": "e7747261-5f70-42db-8bc6-7f82bc5e8976",
+    "accession": "GR295",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.09724,
+    "longitude": -59.98632
+  },
+  {
+    "id": "e7b28953-62a2-4999-8a3c-fde28fca4b22",
+    "accession": "GR0101",
+    "familyName": "Apocynaceae",
+    "calcFullName": "Plumeria",
+    "vernacularName": "",
+    "latitude": -3.095094,
+    "longitude": -59.987806
+  },
+  {
+    "id": "e839a2c4-16d3-4025-8718-e545c803c924",
+    "accession": "GR010",
+    "familyName": "Meliaceae",
+    "calcFullName": "Carapa guianensis Aubl.",
+    "vernacularName": "andiroba",
+    "latitude": -3.094678,
+    "longitude": -59.987313
+  },
+  {
+    "id": "e85499d1-e4b0-4d79-8ba5-c7401c82c92d",
+    "accession": "ND288",
+    "familyName": "Goupiaceae",
+    "calcFullName": "Goupia glabra Aubl.",
+    "vernacularName": "cupiúba",
+    "latitude": -3.096998,
+    "longitude": -59.986511
+  },
+  {
+    "id": "e8f5b6a5-28bf-4867-9642-baffe1ed59e1",
+    "accession": "ND257",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Couepia magnoliifolia Benth. ex Hook.f.",
+    "vernacularName": "",
+    "latitude": -3.09693,
+    "longitude": -59.986925
+  },
+  {
+    "id": "e905f95d-de90-4399-9c98-ab15ad06e100",
+    "accession": "GR471",
+    "familyName": "Annonaceae",
+    "calcFullName": "Bocageopsis multiflora (Mart.) R.E.Fr.",
+    "vernacularName": "envira-preta",
+    "latitude": -3.09700333,
+    "longitude": -59.98569833
+  },
+  {
+    "id": "ea28f14c-eff6-405d-a942-4ca453ff43da",
+    "accession": "GR296",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Couepia bracteosa Benth.",
+    "vernacularName": "pajurá",
+    "latitude": -3.09728833,
+    "longitude": -59.98633333
+  },
+  {
+    "id": "ea41b5e3-fc83-43fd-b387-a81a0bde30f5",
+    "accession": "ND281",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel",
+    "vernacularName": "",
+    "latitude": -3.097316,
+    "longitude": -59.986497
+  },
+  {
+    "id": "eb2e8551-d505-41f4-b329-838c945ca0bc",
+    "accession": "GR074",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Dialium guianense (Aubl.) Sandwith",
+    "vernacularName": "jutaí-pororoca",
+    "latitude": -3.096628,
+    "longitude": -59.987664
+  },
+  {
+    "id": "eb35d420-df0b-4797-a477-33b82cb186d9",
+    "accession": "GR218",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Cassia grandis L.",
+    "vernacularName": "mari-mari",
+    "latitude": -3.09664667,
+    "longitude": -59.98645167
+  },
+  {
+    "id": "eb3b49c2-b65c-4fa5-8c41-68b0d3f2abb7",
+    "accession": "CD312",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Kerianthera preclara J.H.Kirkbr.",
+    "vernacularName": "",
+    "latitude": -3.095341,
+    "longitude": -59.987236
+  },
+  {
+    "id": "ebbfba60-4c46-406f-a2b9-db7275f18069",
+    "accession": "GR02",
+    "familyName": "Polygonaceae",
+    "calcFullName": "Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel",
+    "vernacularName": "",
+    "latitude": -3.095073,
+    "longitude": -59.98773
+  },
+  {
+    "id": "ec689f49-5940-49be-9b2b-da55d1e63fa1",
+    "accession": "GR069",
+    "familyName": "Moraceae",
+    "calcFullName": "Morus alba L.",
+    "vernacularName": "",
+    "latitude": -3.097157,
+    "longitude": -59.987671
+  },
+  {
+    "id": "eca2976c-d440-48e1-b7ce-e87855561f45",
+    "accession": "GR031",
+    "familyName": "Euphorbiaceae",
+    "calcFullName": "Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.",
+    "vernacularName": "seringeira-verdadeira",
+    "latitude": -3.094436,
+    "longitude": -59.987167
+  },
+  {
+    "id": "ed1e6538-9a6a-4775-9773-a0676374fe92",
+    "accession": "GR507",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Genipa americana L.",
+    "vernacularName": "",
+    "latitude": -3.094291,
+    "longitude": -59.987972
+  },
+  {
+    "id": "ed4148f6-908c-403f-9697-48d9be2c808d",
+    "accession": "PLANT013",
+    "familyName": "Indet.",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09564725,
+    "longitude": -59.98630509
+  },
+  {
+    "id": "ed48b7f1-9028-44a8-8c74-4291941961d5",
+    "accession": "GR163",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga",
+    "vernacularName": "",
+    "latitude": -3.096162,
+    "longitude": -59.987833
+  },
+  {
+    "id": "ef55c3ed-0e82-4a78-a694-fd067c00a44b",
+    "accession": "GR235",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09702667,
+    "longitude": -59.98648167
+  },
+  {
+    "id": "efc4d5bf-4831-4a07-ac45-a3f22c26cdff",
+    "accession": "GR422",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga edulis Mart.",
+    "vernacularName": "ingá-do-metro",
+    "latitude": -3.098365,
+    "longitude": -59.98484667
+  },
+  {
+    "id": "efebb4d0-8f3a-4d53-bb83-9705b6b670c0",
+    "accession": "GR481",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia esculenta (Cambess.) Radlk.",
+    "vernacularName": "pitombeira",
+    "latitude": -3.096452,
+    "longitude": -59.98781
+  },
+  {
+    "id": "effc7e4c-cd40-4101-a02e-6af6ab1e3423",
+    "accession": "ND407",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Acioa longipendula (Pilg.) Sothers & Prance",
+    "vernacularName": "castanha-de-galinha",
+    "latitude": -3.09731,
+    "longitude": -59.986292
+  },
+  {
+    "id": "f0d7dd1e-2df2-4d31-9a9a-4a8b8070e8e5",
+    "accession": "GR189",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium rhoifolium (Benth.) Byng & Christenh.",
+    "vernacularName": "breu-branco",
+    "latitude": -3.09690833,
+    "longitude": -59.98650667
+  },
+  {
+    "id": "f0e71e8d-12b6-47a8-b605-5fa57f45c07c",
+    "accession": "GR191",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Bocoa viridiflora (Ducke) R.S.Cowan",
+    "vernacularName": "muirajiboia",
+    "latitude": -3.096795,
+    "longitude": -59.98670667
+  },
+  {
+    "id": "f0ebada8-a376-4180-b702-e475ac3591f7",
+    "accession": "PLANT022",
+    "familyName": "Lauraceae",
+    "calcFullName": "Indet.",
+    "vernacularName": "",
+    "latitude": -3.09469167,
+    "longitude": -59.989505
+  },
+  {
+    "id": "f1615d0f-06da-4e15-8da5-2e232fdadf5e",
+    "accession": "GR489",
+    "familyName": "Leguminosae-Caes",
+    "calcFullName": "Eperua",
+    "vernacularName": "",
+    "latitude": -3.097528,
+    "longitude": -59.986526
+  },
+  {
+    "id": "f20258e0-bf56-4be3-bb14-c6f23494378b",
+    "accession": "CD045",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia stipitata McVaugh",
+    "vernacularName": "aracá-boi",
+    "latitude": -3.097175,
+    "longitude": -59.986647
+  },
+  {
+    "id": "f236b06e-2d29-43b7-bc3e-68bba39d08b8",
+    "accession": "GR125",
+    "familyName": "Bignoniaceae",
+    "calcFullName": "Handroanthus serratifolius (A.H.Gentry) S.O.Grose",
+    "vernacularName": "ipê-amarelo",
+    "latitude": -3.095366,
+    "longitude": -59.98748
+  },
+  {
+    "id": "f347a969-d31b-4913-a028-1489743d763a",
+    "accession": "GR472",
+    "familyName": "Erythroxylaceae",
+    "calcFullName": "Erythroxylum",
+    "vernacularName": "",
+    "latitude": -3.09704167,
+    "longitude": -59.98574167
+  },
+  {
+    "id": "f3bc78df-c35a-410f-840c-f29abdc1939f",
+    "accession": "GR470",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Andira",
+    "vernacularName": "sucupira",
+    "latitude": -3.09710167,
+    "longitude": -59.98573833
+  },
+  {
+    "id": "f46ca396-566b-4a02-9241-a415b83c3dd2",
+    "accession": "GR427",
+    "familyName": "Arecaceae",
+    "calcFullName": "Syagrus inajai (Spruce) Becc.",
+    "vernacularName": "pupunha-de-porco",
+    "latitude": -3.098195,
+    "longitude": -59.98489
+  },
+  {
+    "id": "f477770d-978e-4684-8fb4-213b717745fe",
+    "accession": "GR426",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.098255,
+    "longitude": -59.98470167
+  },
+  {
+    "id": "f4847c96-fcaa-4abc-b233-50e77eeb6951",
+    "accession": "GR213",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe precatoria Mart.",
+    "vernacularName": "açaí da-mata",
+    "latitude": -3.0967,
+    "longitude": -59.98656
+  },
+  {
+    "id": "f50ac522-9f2c-4bc7-8023-56cf84d0ae4e",
+    "accession": "CD219",
+    "familyName": "Rubiaceae",
+    "calcFullName": "Warszewiczia coccinea (Vahl) Klotzsch",
+    "vernacularName": "rabo-de-arara",
+    "latitude": -3.095297,
+    "longitude": -59.987506
+  },
+  {
+    "id": "f5adccbf-0d51-4fda-83a4-4d41b66fabd2",
+    "accession": "CD08",
+    "familyName": "Arecaceae",
+    "calcFullName": "Elaeis oleifera (Kunth) Cortés",
+    "vernacularName": "",
+    "latitude": -3.095023,
+    "longitude": -59.987598
+  },
+  {
+    "id": "f6b141e5-bce5-4948-8ee6-d74f71e106e4",
+    "accession": "GR123",
+    "familyName": "Cactaceae",
+    "calcFullName": "Pereskia bleo (Kunth) DC.",
+    "vernacularName": "",
+    "latitude": -3.099667,
+    "longitude": -59.984738
+  },
+  {
+    "id": "f74ab454-2843-4dee-b0d4-e1c5b325920c",
+    "accession": "LC005",
+    "familyName": "Indeterminada",
+    "calcFullName": "Indeterminada",
+    "vernacularName": "",
+    "latitude": -3.09849205,
+    "longitude": -59.98570147
+  },
+  {
+    "id": "f755ddfd-1cd4-4b68-a528-f24e8c7a646c",
+    "accession": "GR024A",
+    "familyName": "Annonaceae",
+    "calcFullName": "Unonopsis stipitata Diels",
+    "vernacularName": "",
+    "latitude": -3.096942,
+    "longitude": -59.986954
+  },
+  {
+    "id": "f76dfea2-ff54-4fe5-ab63-a43536d746a8",
+    "accession": "GR441",
+    "familyName": "Cochlospermaceae",
+    "calcFullName": "Cochlospermum orinocense (Kunth) Steud.",
+    "vernacularName": "algodão-bravo",
+    "latitude": -3.097445,
+    "longitude": -59.98546333
+  },
+  {
+    "id": "f7a8a250-9b7d-47ed-a882-4268f08b25b8",
+    "accession": "GR056",
+    "familyName": "Melastomataceae",
+    "calcFullName": "Clidemia hirta (L.) D.Don",
+    "vernacularName": "",
+    "latitude": -3.097755,
+    "longitude": -59.985459
+  },
+  {
+    "id": "f7c4827f-599e-4fbb-8230-768ed2941deb",
+    "accession": "CD027",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Clitoria fairchildiana R.A.Howard",
+    "vernacularName": "",
+    "latitude": -3.094576,
+    "longitude": -59.987685
+  },
+  {
+    "id": "f7ce18e3-41a3-4713-937b-3390b908f6f1",
+    "accession": "CD011",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Syzygium cumini (L.) Skeels",
+    "vernacularName": "",
+    "latitude": -3.094581,
+    "longitude": -59.988072
+  },
+  {
+    "id": "f853665e-f4d1-4b11-90f5-8203ae22e7d5",
+    "accession": "GR043",
+    "familyName": "Arecaceae",
+    "calcFullName": "Mauritia flexuosa L.f.",
+    "vernacularName": "",
+    "latitude": -3.098924,
+    "longitude": -59.984252
+  },
+  {
+    "id": "f8715c17-0056-46c5-afe6-2e24fb2436d6",
+    "accession": "CD090",
+    "familyName": "Malvaceae",
+    "calcFullName": "Ceiba pentandra (L.) Gaertn.",
+    "vernacularName": "sumaúma",
+    "latitude": -3.095744,
+    "longitude": -59.986649
+  },
+  {
+    "id": "f887baf2-1ca3-4f52-b1ff-84e07ca9204d",
+    "accession": "CD01",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Spondias mombin L.",
+    "vernacularName": "taberebá",
+    "latitude": -3.095238,
+    "longitude": -59.987918
+  },
+  {
+    "id": "f8a1cf33-4d99-4492-987f-01a6c7d246b7",
+    "accession": "GR467",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Andira",
+    "vernacularName": "sucupira",
+    "latitude": -3.09721,
+    "longitude": -59.98556
+  },
+  {
+    "id": "f8f28c1d-b246-40f6-8e45-506235dc594a",
+    "accession": "CD099",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.094164,
+    "longitude": -59.988976
+  },
+  {
+    "id": "f917ed88-ac71-4caf-bd6c-aacd64d4f962",
+    "accession": "CD205",
+    "familyName": "Burseraceae",
+    "calcFullName": "Protium",
+    "vernacularName": "",
+    "latitude": -3.095056,
+    "longitude": -59.9878
+  },
+  {
+    "id": "f920a399-bbde-4174-9192-8bdfedc8038e",
+    "accession": "GR036",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.094906,
+    "longitude": -59.987049
+  },
+  {
+    "id": "f92af532-c6ae-4daa-94e1-0ab51b3801e3",
+    "accession": "GR109",
+    "familyName": "Rutaceae",
+    "calcFullName": "Citrus",
+    "vernacularName": "",
+    "latitude": -3.097466,
+    "longitude": -59.986707
+  },
+  {
+    "id": "f974dd41-1980-4c20-8e07-b1caf78c3c0d",
+    "accession": "GR234",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.09698167,
+    "longitude": -59.98647
+  },
+  {
+    "id": "f97b4e9c-1842-4dbb-8435-7d2993ec4318",
+    "accession": "GR018",
+    "familyName": "Heliconiaceae",
+    "calcFullName": "Heliconia chartacea Lane ex Barreiros",
+    "vernacularName": "",
+    "latitude": -3.095089,
+    "longitude": -59.988547
+  },
+  {
+    "id": "f9871cd9-55c0-47a1-87d6-d638dc22c2b0",
+    "accession": "CD245",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Couratari",
+    "vernacularName": "",
+    "latitude": -3.095514,
+    "longitude": -59.987871
+  },
+  {
+    "id": "f9f64ea3-cdf3-470c-80b7-d69b27470182",
+    "accession": "CD085",
+    "familyName": "Meliaceae",
+    "calcFullName": "Swietenia macrophylla King",
+    "vernacularName": "mogno",
+    "latitude": -3.094816,
+    "longitude": -59.98716
+  },
+  {
+    "id": "fa423539-9529-432c-a099-4bc61b5beb60",
+    "accession": "GR022",
+    "familyName": "Sapindaceae",
+    "calcFullName": "Talisia esculenta (Cambess.) Radlk.",
+    "vernacularName": "pitombeira",
+    "latitude": -3.096049,
+    "longitude": -59.986552
+  },
+  {
+    "id": "fa918caf-3cee-4855-ae36-65336e6ce9b5",
+    "accession": "CD010",
+    "familyName": "Araliaceae",
+    "calcFullName": "Schefflera morototoni (Aubl.) Maguireet al.",
+    "vernacularName": "",
+    "latitude": -3.093867,
+    "longitude": -59.988545
+  },
+  {
+    "id": "fad41afa-12bc-4a93-9d9a-d8817cac14c6",
+    "accession": "GR024",
+    "familyName": "Siparunaceae",
+    "calcFullName": "Siparuna guianensis Aubl.",
+    "vernacularName": "capitiú",
+    "latitude": -3.095166,
+    "longitude": -59.986937
+  },
+  {
+    "id": "fb097e16-3297-4bd2-8849-f5078ac15ee6",
+    "accession": "GR421",
+    "familyName": "Anacardiaceae",
+    "calcFullName": "Anacardium occidentale L.",
+    "vernacularName": "cajueiro",
+    "latitude": -3.09845833,
+    "longitude": -59.98487667
+  },
+  {
+    "id": "fbdaa814-aae6-4de4-8f4a-d98d14a9dacd",
+    "accession": "GR132",
+    "familyName": "Vochysiaceae",
+    "calcFullName": "Qualea paraensis Ducke",
+    "vernacularName": "",
+    "latitude": -3.097255,
+    "longitude": -59.986186
+  },
+  {
+    "id": "fc083511-c984-408c-9957-48b68ae22615",
+    "accession": "GR236",
+    "familyName": "Leguminosae-Pap",
+    "calcFullName": "Pterocarpus rohrii Vahl",
+    "vernacularName": "mututi",
+    "latitude": -3.09702,
+    "longitude": -59.986485
+  },
+  {
+    "id": "fc0cc3e9-ac79-4827-94c4-423c928e0148",
+    "accession": "GR071",
+    "familyName": "Lauraceae",
+    "calcFullName": "Persea",
+    "vernacularName": "",
+    "latitude": -3.095397,
+    "longitude": -59.989021
+  },
+  {
+    "id": "fc3bdb62-6e29-4472-ba98-221a5053c8a6",
+    "accession": "GR024A",
+    "familyName": "Annonaceae",
+    "calcFullName": "Unonopsis stipitata Diels",
+    "vernacularName": "",
+    "latitude": -3.099438,
+    "longitude": -59.985007
+  },
+  {
+    "id": "fcb1c538-3ff9-4e43-879c-ea528cbb139e",
+    "accession": "GR197",
+    "familyName": "Lecythidaceae",
+    "calcFullName": "Eschweilera coriacea (DC.) S.A.Mori",
+    "vernacularName": "matá-matá",
+    "latitude": -3.09674667,
+    "longitude": -59.986545
+  },
+  {
+    "id": "fd00c145-a30e-4cf1-8f04-ffbfbbb55f4a",
+    "accession": "GR459",
+    "familyName": "Arecaceae",
+    "calcFullName": "Euterpe oleracea Mart.",
+    "vernacularName": "açaí-de-Pará",
+    "latitude": -3.09747667,
+    "longitude": -59.98542
+  },
+  {
+    "id": "fd4a7d89-2b4e-4efc-8832-dc95a4b9b4da",
+    "accession": "GR114",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga laurina (Sw.) Willd.",
+    "vernacularName": "ingá",
+    "latitude": -3.094987,
+    "longitude": -59.987233
+  },
+  {
+    "id": "fd6ce54c-ec15-41ca-8158-68ef7453606c",
+    "accession": "GR449",
+    "familyName": "Myrtaceae",
+    "calcFullName": "Eugenia",
+    "vernacularName": "cumaté",
+    "latitude": -3.09786167,
+    "longitude": -59.98549667
+  },
+  {
+    "id": "fd98e6e6-ebdd-41e8-93e0-5d9fef105f1c",
+    "accession": "GR142",
+    "familyName": "Humiriaceae",
+    "calcFullName": "Endopleura uchi (Huber) Cuatrec.",
+    "vernacularName": "",
+    "latitude": -3.097654,
+    "longitude": -59.986428
+  },
+  {
+    "id": "fdd31ad6-3bfc-48ae-9138-38850bb0b683",
+    "accession": "GR194",
+    "familyName": "Chrysobalanaceae",
+    "calcFullName": "Couepia",
+    "vernacularName": "Pajurá",
+    "latitude": -3.09683667,
+    "longitude": -59.98652667
+  },
+  {
+    "id": "fe475bf3-0070-4dc6-b1e4-42992b35219a",
+    "accession": "GR017",
+    "familyName": "Malvaceae",
+    "calcFullName": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+    "vernacularName": "cupuaçu",
+    "latitude": -3.095676,
+    "longitude": -59.988218
+  },
+  {
+    "id": "fea288b4-3a48-4f9a-8c48-b7b286e559db",
+    "accession": "GR119",
+    "familyName": "Leguminosae-Mim",
+    "calcFullName": "Inga",
+    "vernacularName": "",
+    "latitude": -3.095937,
+    "longitude": -59.988059
+  },
+  {
+    "id": "ffc67256-d330-47be-8a16-82efb41a7dd2",
+    "accession": "GR048",
+    "familyName": "Araceae",
+    "calcFullName": "Philodendron melinonii Brongn. ex Regel",
+    "vernacularName": "",
+    "latitude": -3.095181,
+    "longitude": -59.987623
+  }
+]

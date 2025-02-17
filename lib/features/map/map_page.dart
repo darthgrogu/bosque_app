@@ -2,114 +2,271 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:bosque_app/core/models/arvore.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
+import 'package:carousel_slider/carousel_slider.dart';
 
-class MapPage extends StatelessWidget {
-  MapPage({Key? key}) : super(key: key);
+class MapPage extends StatefulWidget {
+  const MapPage({Key? key}) : super(key: key);
 
-  final List<Arvore> _arvores = [
-    // Seus dados de exemplo
-    Arvore(
-      id: 1,
-      nomeCientifico: 'Handroanthus serratifolius',
-      nomePopular: 'Ipê-amarelo',
-      latitude: -3.0976,
-      longitude: -59.9860,
-      fotos: [
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Handroanthus_serratifolius_01.jpg/800px-Handroanthus_serratifolius_01.jpg'
-      ],
-    ),
-    Arvore(
-      id: 2,
-      nomeCientifico: 'Ceiba pentandra',
-      nomePopular: 'Samaúma',
-      latitude: -3.0980,
-      longitude: -59.9855,
-      fotos: ['https://upload.wikimedia.org/wikipedia/commons/9/95/Kapok_tree_-_panoramio.jpg'],
-    ),
-    Arvore(
-      id: 3,
-      nomeCientifico: 'Hymenaea courbaril',
-      nomePopular: 'Jatobá',
-      latitude: -3.0973,
-      longitude: -59.9867,
-      fotos: ['https://upload.wikimedia.org/wikipedia/commons/1/1e/Hymenaea_courbaril_-_Jatob%C3%A1.jpg'],
-    ),
+  @override
+  State<MapPage> createState() => _MapPageState();
+}
+
+class _MapPageState extends State<MapPage> {
+  List<Arvore> _arvores = [];
+  final List<String> _imagensLocais = [
+    'assets/images/85466808.jpg',
+    'assets/images/93296991.jpg',
+    'assets/images/93296992.jpg',
+    'assets/images/93296993.jpg',
   ];
+
+  final TextEditingController _searchController = TextEditingController();
+  List<Arvore> _searchResults = [];
+  late final MapController _mapController;
+  bool _mapReady =
+      false; // Variável para controlar se o mapa está pronto. IMPORTANTE
+
+  @override
+  void initState() {
+    super.initState();
+    _mapController = MapController();
+    _loadData();
+  }
+
+  Future<void> _loadData() async {
+    final String jsonString =
+        await rootBundle.loadString('assets/arvores.json');
+    final List<dynamic> jsonData = json.decode(jsonString);
+    final List<Arvore> arvores =
+        jsonData.map((item) => Arvore.fromMap(item)).toList();
+    setState(() {
+      _arvores = arvores;
+      //_searchResults = List.from(_arvores);
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
-    return FlutterMap(
-      options: MapOptions(
-        initialCenter: LatLng(-3.0976310, -59.98608),
-        initialZoom: 19,
+    return Scaffold(
+      body: Stack(
+        children: [
+          _arvores.isEmpty
+              ? const Center(child: CircularProgressIndicator())
+              : FlutterMap(
+                  mapController: _mapController,
+                  options: MapOptions(
+                    initialZoom: 16,
+                    // onMapReady é a chave!
+                    onMapReady: () {
+                      setState(() {
+                        _mapReady =
+                            true; // Atualiza a variável quando o mapa estiver pronto
+                      });
+                      // Move a câmera SOMENTE se houver árvores e o mapa estiver pronto
+                      if (_arvores.isNotEmpty) {
+                        _mapController.move(
+                            LatLng(_arvores[0].latitude, _arvores[0].longitude),
+                            19);
+                      }
+                    },
+                    onTap: (_, __) => {},
+                  ),
+                  children: [
+                    TileLayer(
+                      urlTemplate:
+                          'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                      userAgentPackageName: 'com.inpa.bosque_app',
+                    ),
+                    MarkerLayer(
+                      markers: _buildMarkers(context),
+                      rotate: true,
+                    ),
+                  ],
+                ),
+          Positioned(
+            //Barra de Busca
+            top: 28,
+            left: 10,
+            right: 10,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.9),
+                borderRadius: BorderRadius.circular(25),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.grey.withOpacity(0.5),
+                    spreadRadius: 2,
+                    blurRadius: 5,
+                    offset: Offset(0, 3),
+                  ),
+                ],
+              ),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: TextField(
+                      controller: _searchController,
+                      decoration: const InputDecoration(
+                        hintText: 'Buscar por código/nome...',
+                        border: InputBorder.none,
+                        contentPadding: EdgeInsets.all(10.0),
+                      ),
+                      onSubmitted: (value) {
+                        _searchPlant(value);
+                      },
+                    ),
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.search, color: Colors.black),
+                    onPressed: () {
+                      _searchPlant(_searchController.text);
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+          Positioned(
+            //Botao
+            bottom: 16.0,
+            right: 16.0,
+            child: FloatingActionButton(
+              onPressed: () {
+                print("Botão flutuante pressionado!");
+              },
+              backgroundColor: Colors.lightBlue[200],
+              child: const Icon(Icons.near_me,
+                  color: Color.fromARGB(255, 51, 48, 48)),
+            ),
+          ),
+        ],
       ),
-      children: [
-        TileLayer(
-          urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-          userAgentPackageName: 'com.suaempresa.seujardimbotanico',
-        ),
-        MarkerLayer( // Apenas MarkerLayer
-          markers: _buildMarkers(context), // Passa o context para _buildMarkers
-        ),
-      ],
     );
   }
 
-  List<Marker> _buildMarkers(BuildContext context) { // Recebe o context
+  List<Marker> _buildMarkers(BuildContext context) {
     return _arvores.map((arvore) {
+      final isSearchResult = _searchResults.contains(arvore);
+      final iconColor = isSearchResult ? Colors.blue : Colors.green;
+      final iconSize = isSearchResult ? 28.0 : 24.0;
+
       return Marker(
         key: ValueKey(arvore.id),
-        width: 80.0,
-        height: 80.0,
+        width: 40.0,
+        height: 40.0,
         point: LatLng(arvore.latitude, arvore.longitude),
         child: GestureDetector(
           onTap: () {
-            _showDetailsBottomSheet(context, arvore); // Chama o bottom sheet
+            _showDetailsBottomSheet(context, arvore);
           },
-          child: const Icon(Icons.location_on, size: 40, color: Colors.green),
+          child: Icon(Icons.circle, size: iconSize, color: iconColor),
         ),
       );
     }).toList();
   }
 
-  // A função _showDetailsBottomSheet permanece inalterada
   void _showDetailsBottomSheet(BuildContext context, Arvore arvore) {
     showModalBottomSheet(
       context: context,
+      isScrollControlled: true,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(25.0)),
+      ),
       builder: (context) {
-        return Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            const Text('Detalhes da Árvore',
-                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-            const SizedBox(height: 10),
-            Text('Nome Científico: ${arvore.nomeCientifico}'),
-            Text(
-                'Nome Popular: ${arvore.nomePopular ?? 'N/A'}'), // Trata nome popular nulo
-            const SizedBox(height: 10),
-            SizedBox(
-              height: 150, // Altura para o carrossel de imagens
-              child: PageView.builder(
-                // PageView para visualizar as imagens.
-                itemCount: arvore.fotos.length,
-                pageSnapping: true,
-                itemBuilder: (context, pagePosition) {
-                  return Container(
-                    // Exibe a imagem
-                      margin: const EdgeInsets.all(8),
-                      child: Image.network(arvore.fotos[pagePosition],
-                          fit: BoxFit.cover));
-                },
-              ),
+        return SingleChildScrollView(
+          child: Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Center(
+                  child: Text(
+                    'Detalhes da Árvore',
+                    style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: Theme.of(context).primaryColor,
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                if (_imagensLocais.isNotEmpty)
+                  CarouselSlider(
+                    options: CarouselOptions(
+                      height: 200.0,
+                      enlargeCenterPage: true,
+                      autoPlay: false,
+                      aspectRatio: 16 / 9,
+                      autoPlayCurve: Curves.fastOutSlowIn,
+                      enableInfiniteScroll: true,
+                      viewportFraction: 0.8,
+                    ),
+                    items: _imagensLocais.map((url) {
+                      return Builder(
+                        builder: (BuildContext context) {
+                          return Container(
+                            width: MediaQuery.of(context).size.width,
+                            margin: const EdgeInsets.symmetric(horizontal: 5.0),
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(12),
+                              image: DecorationImage(
+                                image: AssetImage(url),
+                                fit: BoxFit.cover,
+                              ),
+                            ),
+                          );
+                        },
+                      );
+                    }).toList(),
+                  ),
+                const SizedBox(height: 16),
+                Text('Nome Científico: ${arvore.calcFullName}',
+                    style: TextStyle(fontSize: 16)),
+                Text('Nome Popular: ${arvore.vernacularName ?? 'N/A'}',
+                    style: TextStyle(fontSize: 16)),
+                const SizedBox(height: 16),
+                const Divider(),
+                const SizedBox(height: 16),
+                const Text('Outras informações...'),
+                const SizedBox(height: 16),
+              ],
             ),
-
-            const Padding(
-              padding: EdgeInsets.all(16.0),
-              child: Text('Outras informações...'), // Placeholder
-            ),
-          ],
+          ),
         );
       },
     );
+  }
+
+// Função de busca (agora com implementação)
+  void _searchPlant(String query) {
+    if (query.isEmpty) {
+      setState(() {
+        _searchResults = [];
+      });
+      return;
+    }
+
+    final lowerCaseQuery = query.toLowerCase();
+    final results = _arvores.where((arvore) {
+      return arvore.accession.toLowerCase().contains(lowerCaseQuery) ||
+          arvore.calcFullName.toLowerCase().contains(lowerCaseQuery) ||
+          (arvore.vernacularName?.toLowerCase().contains(lowerCaseQuery) ??
+              false);
+    }).toList();
+
+    setState(() {
+      _searchResults = results;
+      // Move a câmera para o primeiro resultado DEPOIS de redesenhar a tela, e verifica se o mapa está pronto.
+      if (_mapReady && _searchResults.isNotEmpty) {
+        // Usa _mapReady
+        final firstResult = _searchResults[0];
+        _mapController.move(
+            LatLng(firstResult.latitude, firstResult.longitude), 19);
+      }
+    });
   }
 }

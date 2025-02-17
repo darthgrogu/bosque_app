@@ -1,41 +1,45 @@
 class Arvore {
-  final int id; // ID único da árvore (usaremos como código)
-  final String nomeCientifico;
-  final String? nomePopular; // Pode ser nulo
-  final double latitude;
-  final double longitude;
-  final List<String> fotos; // URLs das fotos (por enquanto, strings)
+  final String id;
+  final String accession;
+  final String familyName;
+  final String calcFullName;
+  final String? vernacularName; // Pode ser nulo
+  final double latitude; //Agora é String
+  final double longitude; //Agora é String
 
   Arvore({
     required this.id,
-    required this.nomeCientifico,
-    this.nomePopular,
+    required this.accession,
+    required this.familyName,
+    required this.calcFullName,
+    this.vernacularName,
     required this.latitude,
     required this.longitude,
-    required this.fotos,
   });
 
-    // Método para converter um Map (vindo de um JSON, por exemplo) para Arvore
+  // Método para converter de Map (JSON) para Arvore
   factory Arvore.fromMap(Map<String, dynamic> map) {
     return Arvore(
-      id: map['id'] as int,
-      nomeCientifico: map['nomeCientifico'] as String,
-      nomePopular: map['nomePopular'] as String?, // Permite nulos
-      latitude: map['latitude'] as double,
-      longitude: map['longitude'] as double,
-      fotos: List<String>.from(map['fotos'] as List), // Converte a lista dinâmica
+      id: map['id'] as String,
+      accession: map['accession'] as String,
+      familyName: map['familyName'] as String,
+      calcFullName: map['calcFullName'] as String,
+      vernacularName: map['vernacularName'] as String?, // Pode ser nulo
+      latitude: map['latitude'] as double, // É String no JSON
+      longitude: map['longitude'] as double, // É String no JSON
     );
   }
 
-  // Método para converter uma Arvore para um Map (para salvar em banco de dados, por exemplo)
+  // Método para converter de Arvore para Map
   Map<String, dynamic> toMap() {
     return {
       'id': id,
-      'nomeCientifico': nomeCientifico,
-      'nomePopular': nomePopular,
+      'accession': accession,
+      'familyName': familyName,
+      'calcFullName': calcFullName,
+      'vernacularName': vernacularName,
       'latitude': latitude,
       'longitude': longitude,
-      'fotos': fotos,
     };
   }
 }
