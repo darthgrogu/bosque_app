@@ -14,7 +14,7 @@ class MapPage extends StatefulWidget {
 }
 
 class _MapPageState extends State<MapPage> {
-  List<Arvore> _arvores = [];
+  
   final List<String> _imagensLocais = [
     'assets/images/85466808.jpg',
     'assets/images/93296991.jpg',
@@ -23,10 +23,11 @@ class _MapPageState extends State<MapPage> {
   ];
 
   final TextEditingController _searchController = TextEditingController();
-  List<Arvore> _searchResults = [];
   late final MapController _mapController;
-  bool _mapReady =
-      false; // Variável para controlar se o mapa está pronto. IMPORTANTE
+
+  List<Arvore> _arvores = [];
+  List<Arvore> _searchResults = [];
+  bool _mapReady = false; // Variável para controlar se o mapa está pronto. IMPORTANTE
 
   @override
   void initState() {
@@ -57,19 +58,11 @@ class _MapPageState extends State<MapPage> {
               : FlutterMap(
                   mapController: _mapController,
                   options: MapOptions(
-                    initialZoom: 16,
+                    initialCenter: LatLng(-3.097025, -59.986980),
+                    initialZoom: 16.5,
                     // onMapReady é a chave!
                     onMapReady: () {
-                      setState(() {
-                        _mapReady =
-                            true; // Atualiza a variável quando o mapa estiver pronto
-                      });
-                      // Move a câmera SOMENTE se houver árvores e o mapa estiver pronto
-                      if (_arvores.isNotEmpty) {
-                        _mapController.move(
-                            LatLng(_arvores[0].latitude, _arvores[0].longitude),
-                            19);
-                      }
+                      
                     },
                     onTap: (_, __) => {},
                   ),
