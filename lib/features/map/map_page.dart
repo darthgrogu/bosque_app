@@ -5,9 +5,10 @@ import 'package:bosque_app/core/models/arvore.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 import 'package:carousel_slider/carousel_slider.dart';
+import 'dart:math';
 
 class MapPage extends StatefulWidget {
-  const MapPage({Key? key}) : super(key: key);
+  const MapPage({super.key});
 
   @override
   State<MapPage> createState() => _MapPageState();
@@ -27,7 +28,7 @@ class _MapPageState extends State<MapPage> {
 
   List<Arvore> _arvores = [];
   List<Arvore> _searchResults = [];
-  bool _mapReady = false; // Variável para controlar se o mapa está pronto. IMPORTANTE
+  final bool _mapReady = false; // Variável para controlar se o mapa está pronto. IMPORTANTE
 
   @override
   void initState() {
@@ -44,7 +45,7 @@ class _MapPageState extends State<MapPage> {
         jsonData.map((item) => Arvore.fromMap(item)).toList();
     setState(() {
       _arvores = arvores;
-      //_searchResults = List.from(_arvores);
+      _searchResults = List.from(_arvores);
     });
   }
 
@@ -141,21 +142,42 @@ class _MapPageState extends State<MapPage> {
   }
 
   List<Marker> _buildMarkers(BuildContext context) {
+    final random = Random();
+
+    final List<String> _treeIcons = [
+      'assets/images/tree1.png',
+      'assets/images/tree2.png',
+      'assets/images/tree3.png',
+      'assets/images/tree4.png',
+      'assets/images/tree5.png',
+      'assets/images/tree6.png',
+    ];
+
     return _arvores.map((arvore) {
       final isSearchResult = _searchResults.contains(arvore);
       final iconColor = isSearchResult ? Colors.blue : Colors.green;
-      final iconSize = isSearchResult ? 28.0 : 24.0;
+      final iconSize = isSearchResult ? 60.0 : 30.0;
+
+      final randomIndex = random.nextInt(_treeIcons.length);
+      final selectedImage = _treeIcons[randomIndex];
 
       return Marker(
         key: ValueKey(arvore.id),
-        width: 40.0,
-        height: 40.0,
+        width: 50.0,
+        height: iconSize,
         point: LatLng(arvore.latitude, arvore.longitude),
         child: GestureDetector(
           onTap: () {
             _showDetailsBottomSheet(context, arvore);
           },
-          child: Icon(Icons.circle, size: iconSize, color: iconColor),
+          child: Opacity(
+            opacity: isSearchResult ? 1.0 : 0.3, // Opacidade baseada no resultado da pesquisa
+            child: Image.asset(
+              selectedImage,
+              width: iconSize,
+              height: iconSize,
+            ),
+          ),
         ),
       );
     }).toList();
