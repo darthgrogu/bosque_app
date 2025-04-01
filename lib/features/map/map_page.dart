@@ -15,7 +15,6 @@ class MapPage extends StatefulWidget {
 }
 
 class _MapPageState extends State<MapPage> {
-  
   final List<String> _imagensLocais = [
     'assets/images/85466808.jpg',
     'assets/images/93296991.jpg',
@@ -28,25 +27,19 @@ class _MapPageState extends State<MapPage> {
 
   List<Arvore> _arvores = [];
   List<Arvore> _searchResults = [];
-  final bool _mapReady = false; // Variável para controlar se o mapa está pronto. IMPORTANTE
+  final bool _mapReady =
+      false; // Variável para controlar se o mapa está pronto. IMPORTANTE
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Future.delayed(Duration(seconds: 2), () {
+        _exibirBoasVindas(context);
+      });
+    });
     _mapController = MapController();
     _loadData();
-  }
-
-  Future<void> _loadData() async {
-    final String jsonString =
-        await rootBundle.loadString('assets/arvores.json');
-    final List<dynamic> jsonData = json.decode(jsonString);
-    final List<Arvore> arvores =
-        jsonData.map((item) => Arvore.fromMap(item)).toList();
-    setState(() {
-      _arvores = arvores;
-      _searchResults = List.from(_arvores);
-    });
   }
 
   @override
@@ -62,9 +55,7 @@ class _MapPageState extends State<MapPage> {
                     initialCenter: LatLng(-3.097025, -59.986980),
                     initialZoom: 16.5,
                     // onMapReady é a chave!
-                    onMapReady: () {
-                      
-                    },
+                    onMapReady: () {},
                     onTap: (_, __) => {},
                   ),
                   children: [
@@ -141,6 +132,19 @@ class _MapPageState extends State<MapPage> {
     );
   }
 
+  Future<void> _loadData() async {
+    final String jsonString =
+        await rootBundle.loadString('assets/arvores.json');
+    final List<dynamic> jsonData = json.decode(jsonString);
+    final List<Arvore> arvores =
+        jsonData.map((item) => Arvore.fromMap(item)).toList();
+
+    setState(() {
+      _arvores = arvores;
+      _searchResults = List.from(_arvores);
+    });
+  }
+
   List<Marker> _buildMarkers(BuildContext context) {
     final random = Random();
 
@@ -155,7 +159,6 @@ class _MapPageState extends State<MapPage> {
 
     return _arvores.map((arvore) {
       final isSearchResult = _searchResults.contains(arvore);
-      final iconColor = isSearchResult ? Colors.blue : Colors.green;
       final iconSize = isSearchResult ? 60.0 : 30.0;
 
       final randomIndex = random.nextInt(_treeIcons.length);
@@ -171,7 +174,9 @@ class _MapPageState extends State<MapPage> {
             _showDetailsBottomSheet(context, arvore);
           },
           child: Opacity(
-            opacity: isSearchResult ? 1.0 : 0.3, // Opacidade baseada no resultado da pesquisa
+            opacity: isSearchResult
+                ? 1.0
+                : 0.3, // Opacidade baseada no resultado da pesquisa
             child: Image.asset(
               selectedImage,
               width: iconSize,
@@ -181,6 +186,24 @@ class _MapPageState extends State<MapPage> {
         ),
       );
     }).toList();
+  }
+
+  void _exibirBoasVindas(BuildContext context) {
+    Navigator.push(
+      context,
+      PageRouteBuilder(
+        opaque: false, // Permite transparência para a animação
+        pageBuilder: (context, animation, secondaryAnimation) =>
+            BoasVindasScreen(),
+        transitionsBuilder: (context, animation, secondaryAnimation, child) {
+          return FadeTransition(
+            opacity: animation, // Anima a opacidade
+            child: child,
+          );
+        },
+        transitionDuration: Duration(milliseconds: 500), // Duração da animação
+      ),
+    );
   }
 
   void _showDetailsBottomSheet(BuildContext context, Arvore arvore) {
@@ -283,5 +306,84 @@ class _MapPageState extends State<MapPage> {
             LatLng(firstResult.latitude, firstResult.longitude), 19);
       }
     });
+  }
+}
+
+class BoasVindasScreen extends StatefulWidget {
+  @override
+  _BoasVindasScreenState createState() => _BoasVindasScreenState();
+}
+
+class _BoasVindasScreenState extends State<BoasVindasScreen> {
+  final PageController _pageController = PageController();
+  int _currentPage = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.green, // Cor de fundo opaca
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Expanded(
+              child: PageView(
+                controller: _pageController,
+                onPageChanged: (int page) {
+                  setState(() {
+                    _currentPage = page;
+                  });
+                },
+                children: [
+                  Center(
+                      child: Text('Bem-vindo ao nosso aplicativo! - Tela 1')),
+                  Center(
+                      child: Text('Descubra novas funcionalidades. - Tela 2')),
+                  Center(
+                      child: Text(
+                          'Explore o mapa e encontre locais interessantes. - Tela 3')),
+                  Center(
+                      child: Text('Personalize suas preferências. - Tela 4')),
+                  Center(child: Text('Aproveite ao máximo! - Tela 5')),
+                ],
+              ),
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: [
+                if (_currentPage > 0)
+                  ElevatedButton(
+                    onPressed: () {
+                      _pageController.previousPage(
+                        duration: Duration(milliseconds: 300),
+                        curve: Curves.easeInOut,
+                      );
+                    },
+                    child: Text('Anterior'),
+                  ),
+                if (_currentPage < 4)
+                  ElevatedButton(
+                    onPressed: () {
+                      _pageController.nextPage(
+                        duration: Duration(milliseconds: 300),
+                        curve: Curves.easeInOut,
+                      );
+                    },
+                    child: Text('Próximo'),
+                  ),
+                if (_currentPage == 4)
+                  ElevatedButton(
+                    onPressed: () {
+                      Navigator.pop(context); // Volta para a tela do mapa
+                    },
+                    child: Text('Vamos lá!'),
+                  ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }
