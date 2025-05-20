@@ -1,5 +1,5 @@
 class Arvore {
-  final String id;
+  final String? id;
   final String accession;
   final String familyName;
   final String calcFullName;
@@ -8,7 +8,7 @@ class Arvore {
   final double longitude; //Agora é String
 
   Arvore({
-    required this.id,
+    this.id,
     required this.accession,
     required this.familyName,
     required this.calcFullName,
@@ -25,8 +25,8 @@ class Arvore {
       familyName: map['familyName'] as String,
       calcFullName: map['calcFullName'] as String,
       vernacularName: map['vernacularName'] as String?, // Pode ser nulo
-      latitude: map['latitude'] as double, // É String no JSON
-      longitude: map['longitude'] as double, // É String no JSON
+      latitude: (map['latitude'] as num).toDouble(),
+      longitude: map['longitude'] as double,
     );
   }
 
@@ -34,6 +34,17 @@ class Arvore {
   Map<String, dynamic> toMap() {
     return {
       'id': id,
+      'accession': accession,
+      'familyName': familyName,
+      'calcFullName': calcFullName,
+      'vernacularName': vernacularName,
+      'latitude': latitude,
+      'longitude': longitude,
+    };
+  }
+
+  Map<String, dynamic> toMapForCreate() {
+    return {
       'accession': accession,
       'familyName': familyName,
       'calcFullName': calcFullName,

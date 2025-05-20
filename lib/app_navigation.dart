@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'features/map/map_page.dart'; // Importa as páginas
+import 'features/map/screens/map_page.dart'; // Importa as páginas
 import 'features/list/list_page.dart';
 import 'features/news/news_page.dart';
 

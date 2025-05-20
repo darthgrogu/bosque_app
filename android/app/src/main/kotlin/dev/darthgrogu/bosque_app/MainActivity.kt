@@ -1,4 +1,4 @@
-package com.example.bosque_app
+package dev.darthgrogu.bosque_app
 
 import io.flutter.embedding.android.FlutterActivity
 
